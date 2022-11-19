@@ -10,7 +10,7 @@ h1, h2, h3, h4, h5, h6 {
     background: #02BCAA; /* Cherry */
 }
 
-a.fullscreen-button i, a.toc-button i, a.community-button i, a.github-button i {
+a.fullscreen-button i, a.toc-button i, a.community-button i, a.change-theme-button i {
   color: #02BCAA;
 }
 
@@ -38,11 +38,11 @@ div#content ul li:before {
   color: #02BCAA;
 }
 
-a.fullscreen-button, a.toc-button, a.about-button i, a.version-button, a.community-button, a.github-button {
+a.fullscreen-button, a.toc-button, a.about-button i, a.version-button, a.community-button, a.change-theme-button {
     color: #02BCAA !important;
 }
 
-a.fullscreen-button:hover, a.toc-button:hover, a.version-button:hover, a.about-button:hover,  a.community-button:hover, a.github-button:hover {
+a.fullscreen-button:hover, a.toc-button:hover, a.version-button:hover, a.about-button:hover,  a.community-button:hover, a.change-theme-button:hover {
   background: #02BCAA !important;
 }
 

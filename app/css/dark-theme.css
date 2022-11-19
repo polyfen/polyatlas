@@ -1,5 +1,5 @@
 body.dark-theme {
-  background: #FEF8F6;
+  background: #090D0F;
 }
 
 ::-moz-selection { /* Code for Firefox */
@@ -20,7 +20,7 @@ body.dark-theme div#sidebar li a:hover {
 }
 
 body.dark-theme div#sidebar-title {
-  color: #fff88;
+  color: #00088;
 }
 
 body.dark-theme div#sidebar-title a {

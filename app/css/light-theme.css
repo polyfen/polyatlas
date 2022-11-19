@@ -27,7 +27,7 @@ body.light-theme div#sidebar-title a {
   color: #FFFFFF;
 }
 
-body.light-theme a.fullscreen-button:hover i, body.light-theme a.toc-button:hover i, body.light-theme a.version-button:hover, body.light-theme a.about-button:hover i, body.light-theme a.community-button:hover i, body.light-theme a.github-button:hover i {
+body.light-theme a.fullscreen-button:hover i, body.light-theme a.toc-button:hover i, body.light-theme a.version-button:hover, body.light-theme a.about-button:hover i, body.light-theme a.community-button:hover i, body.light-theme a.change-theme-button:hover i {
   color: #FFF !important;
 }
 
