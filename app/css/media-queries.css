@@ -1,0 +1,120 @@
+div#resolution-disclaimer {
+  display: none;
+}
+
+div#sidebar-wrapper, a#toc-default-title {
+  display: none;
+}
+
+header a {
+  display: none !important;
+}
+
+footer {
+  display: none;
+}
+
+div#content {
+  padding: 0 10px;
+}
+
+hr, hr.second-separator, hr.third-separator {
+    margin: 4rem auto 2rem;
+}
+
+hr.first-separator {
+  display: none;
+}
+
+h1 {
+  font-size: 2.7rem;
+  margin-bottom: 1.5rem;
+}
+
+h2 {
+  font-size: 2.7rem;
+}
+
+h3 {
+  font-size: 2rem;
+}
+
+p, p a, li, p strong, p span, li strong, div#content li a, blockquote, td, th {
+  font-size: 1.25rem;
+  line-height: 1.5;
+}
+
+p, p a, li, p span, div#content li a, blockquote, td, th {
+color: #000000ab;
+}
+
+p strong, li strong {
+  font-weight: 600;
+}
+
+div#content {
+  margin: 40px auto 0px;
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+  div#sidebar-wrapper, a#toc-default-title {
+    display: block;
+  }
+
+  header a {
+    display: flex !important;
+  }
+
+  hr {
+    margin: 8rem auto 5rem;
+  }
+
+  hr.second-separator {
+    margin: 6rem auto 4rem;
+  }
+
+  hr.third-separator {
+    margin: 4rem auto;
+  }
+
+  hr.first-separator {
+    display: block;
+    margin-top: 20px;
+  }
+
+  h1 {
+    font-size: 4.75rem;
+    margin-bottom: 3.5rem;
+  }
+
+  h2 {
+    font-size: 3.25rem;
+  }
+
+  h3 {
+    font-size: 2.5rem;
+  }
+
+  p, p a, li, p strong, p span, li strong, div#content li a, blockquote, td, th {
+    font-size: 1.5rem;
+  }
+
+  p, p a, li, p span, div#content li a, blockquote, td, th, td a, th a, blockquote a {
+  color: #00000088;
+  }
+
+  p strong, li strong {
+    font-weight: 400;
+  }
+
+  div#content {
+    margin: 70px auto 100px;
+  }
+
+  footer {
+    display: block;
+  }
+
+}

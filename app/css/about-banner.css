@@ -1,0 +1,27 @@
+div#about-banner {
+  width: 320px;
+  position: fixed;
+  top: 69px;
+  right: 6px;
+  background: #FFF;
+  border-radius: 6px;
+  padding: 20px;
+  box-shadow: 0 0 10px #0000001c;
+  z-index: 2;
+}
+
+div#about-banner a.button {
+  color: #02BCAA;
+  border: 1px solid #02BCAA;
+  margin: -2px 0 0 -2px;;
+  display: block;
+  width: 60%;
+  font-weight: 600;
+  background: #F9F9F9;
+}
+
+div#about-banner a.button:hover {
+  background: #02BCAA;
+  color: white;
+  box-shadow: #02BCAA 0 0 10px;
+}

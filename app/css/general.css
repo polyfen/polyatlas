@@ -1,0 +1,192 @@
+/*---------- GENERAL start------------*/
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  background: #151c22; /* Space */
+  overflow-x: hidden !important;
+  scrollbar-color: rgba(255,255,255,0.35) rgba(0,0,0,0);
+  background: #FEF8F6;
+  background: url(../../imgs/texture.png) repeat;
+}
+
+
+
+html {
+  position: relative;
+  min-height: 100%;
+  border-top: 12px solid #00bcaa;
+}
+
+body {
+  margin-bottom: 85px; /* Margin bottom by footer height for sticky footer */
+}
+
+::-moz-selection { /* Code for Firefox */
+  background: #F46666; /* Cherry */
+  color: #FFFFFF; /* Space */
+}
+
+::selection {
+  background: #F46666; /* Cherry */
+  color: #FFFFFF; /* Space */
+}
+
+button, a {
+  cursor: pointer;
+}
+
+a, a:active, a:hover {
+  color: #TBD;
+}
+
+img {
+  max-width: 100%;
+  margin: 0 auto 2.5rem;
+  border-radius: 6px;
+  background: #F9F9F9;
+  box-shadow: 0 0 10px #0003;
+}
+
+a.img-closeup {
+  cursor: zoom-in;
+}
+
+div.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  padding-top: 25px;
+  height: 0;
+  margin-bottom: 30px;
+}
+
+div.video-container iframe {
+  position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 4px;
+    box-shadow: 0 0 10px #0004;
+}
+
+div.indent {
+  margin-left: 2.5rem;
+}
+
+.future-feature {
+  display: none;
+}
+
+footer a img, #sidebar a img {
+  margin: 0 !important;
+  border-radius: 0 !important;
+  background: none;
+}
+
+/*---------- GENERAL end ------------*/
+
+
+/*---------- [MEDIA QUERIES] start ------------*/
+
+
+/* Extra small devices (portrait phones, less than 576px) */
+/* No media query for `xs` since this is the default in Bootstrap */
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+}
+
+
+/*---------- [MEDIA QUERIES] end ------------*/
+
+/*///////////// COOKIES MODAL START /////////////*/
+
+div#cookies-modal {
+  position: fixed;
+  right: 0px;
+  bottom: 0px;
+  background: #F9F9F9;
+  border-radius: 0px;
+  box-shadow: 0 0 10px #0004;
+  z-index: 999999;
+  padding: 15px 20px 50px;
+  width: 100%;
+}
+
+div#cookies-modal p, div#cookies-modal p a {
+  font-size: 1.2rem;
+  color: #0009;
+}
+
+div#cookies-modal p a:hover {
+  color: #000 !important;
+}
+
+div#cookies-modal a.cookies-button {
+  background: #00bc9d;
+  border-radius: 100px;
+  width: calc(100% - 37px);
+  position: absolute;
+  padding: 7px 0 4px;
+  margin-top: -10px;
+  color: white;
+  box-shadow: 0 0 10px #00bc9d;
+  font-size: 1.2rem;
+}
+
+@media (min-width:600px) {
+
+  div#cookies-modal {
+    right: 20px;
+    bottom: 20px;
+    border-radius: 6px;
+    width: 320px;
+  }
+
+}
+
+/*///////////// COOKIES MODAL END /////////////*/
+
+table {
+  width: 100%;
+}
+
+td, th {
+    border: solid 2px #b0b0b07a;
+    padding: 5px 15px;
+}
+
+th {
+    background: #00000012;
+    color: black !important;
+}
+
+table table td {
+  border-left:none;
+  border-right:none;
+  padding: 15px 0;
+}
+
+td strong, th strong {
+  font-weight: 400 !important;
+}
+
+table table td:first-of-type {
+    border-top: none;
+}

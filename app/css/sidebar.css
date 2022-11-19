@@ -1,0 +1,159 @@
+/*---------- SIDEBAR start------------*/
+
+div#sidebar-title {
+  position: fixed;
+  z-index: 2;
+}
+
+a.toc-button {
+  z-index: 3;
+}
+
+a#toc-default-title {
+  position: absolute;
+  top: 22px;
+  left: 60px;
+  color: #00bcaa;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  opacity: 0.7;
+}
+
+div#sidebar-wrapper {
+  background: #0004 !important;
+  position: fixed;
+  top: 0;
+  left: 0;
+  overflow-x: hidden;
+  height: 100%;
+  padding: 0 20px;
+  z-index: 2;
+}
+
+div#sidebar-wrapper.open-sidebar {
+  width: 320px;
+  box-shadow: 0 0 10px #0000002b;
+}
+
+div#sidebar {
+  padding: 20px 0px;
+  position: relative;
+}
+
+    .fa-chevron-left {
+      position: fixed;
+      left: 250px;
+      top: 50%;
+      opacity: 0.7;
+      cursor: pointer;
+    }
+
+    .fa-chevron-left:hover {
+      opacity: 1;
+    }
+
+    div#sidebar ul {
+      list-style: none;
+    }
+
+    div#sidebar ul ol {
+      padding-left: 40px;
+    }
+
+    div#sidebar ul ol ol {
+      padding-left: 20px;
+    }
+
+    div#sidebar li {
+      color: #FFF8 !important;
+      font-size: 1rem;
+      margin-bottom: 4px;
+    }
+
+    div#sidebar li a {
+      color: #FFF8 !important;
+      font-size: 1rem;
+      margin-bottom: 4px;
+      font-family: 'proxima-nova', Helvetica, Arial, sans-serif;
+    }
+
+    div#sidebar li a.active-toc {
+      color: #FFF !important;
+    }
+
+    div#sidebar li a:hover {
+      color: #FFFFFF !important;
+      border-bottom: #F46666 1px solid !important;
+      text-decoration: none;
+    }
+
+div#sidebar li.selected-toc:before {
+  content: "\f0a4";
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  margin-left: -38px;
+  margin-right: 22px;
+  color: aliceblue;
+}
+
+div#sidebar-title {
+  background: #00000080;
+  margin: 0px -12px 16px -20px;
+  padding: 35px 0px 24px 50px;
+  color: #F4666688;
+  letter-spacing: 0.7px;
+  width: 320px;
+}
+
+div#sidebar-title a {
+  color: #F46666BB;
+}
+
+div#sidebar-title a:hover {
+  text-decoration: none;
+}
+
+nav#table-of-contents {
+  padding-top: 75px;
+}
+
+/*---------- SIDEBAR end ------------*/
+
+
+/*---------- [MEDIA QUERIES] start ------------*/
+
+
+/* Extra large devices (large desktops is default)
+ No media query since the extra-large breakpoint has no upper bound on its width*/
+
+/* Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {
+
+}
+
+/* Medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) {
+
+}
+
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) {
+
+}
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+
+
+}
+
+div#sidebar li.future-section {
+  opacity: 0.5 !important;
+}
+
+div#sidebar li.future-section a:hover {
+  border-bottom: none !important;
+  cursor: not-allowed;
+}
+
+/*---------- [MEDIA QUERIES] end ------------*/

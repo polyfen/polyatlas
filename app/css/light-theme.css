@@ -1,0 +1,112 @@
+html, body {
+  background: #FEF4E6; /* Space */
+  background: #F9F8F7;
+  background: url(../../imgs/texture.png) repeat;
+  background: #fffcf7;
+  background: #FFF8EF;
+  background: #fff4ef;
+  background: #FEF8F6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #02BCAA;
+}
+
+::-moz-selection { /* Code for Firefox */
+  background: #02BCAA; /* Cherry */
+  color: #FFFFFF; /* Space */
+}
+
+::selection {
+  background: #02BCAA; /* Cherry */
+  color: #FFFFFF; /* Space */
+}
+
+strong, blockquote strong {
+    color: black !important;
+    font-weight: 400;
+}
+
+a.fullscreen-button i, a.toc-button i, a.community-button i {
+  color: #02BCAA;
+}
+
+div#sidebar li a:hover {
+  color: #FFFFFF !important;
+  border-bottom: #02BCAA 1px solid !important;
+}
+
+div#sidebar-title {
+  background: #21a599;
+  color: #fff88;
+  /* box-shadow: inset -10px 10px 10px #0009; */
+}
+
+div#sidebar-title a {
+  color: #FFFFFF;
+  text-transform: uppercase;
+  margin-top: -1px !important;
+  display: block;
+  margin-left: 10px;
+}
+
+small {
+  color: #02BCAA;
+  border-bottom-color: #02BCAA66;
+}
+
+div#content ul li:before {
+  color: #02BCAA;
+}
+
+a.fullscreen-button, a.toc-button, a.about-button i, a.version-button, a.community-button {
+    color: #02BCAA !important;
+}
+
+a.fullscreen-button:hover i, a.toc-button:hover i, a.version-button:hover, a.about-button:hover i,  a.community-button:hover i {
+  color: #FFF !important;
+}
+
+a.fullscreen-button:hover, a.toc-button:hover, a.version-button:hover, a.about-button:hover,  a.community-button:hover {
+    background: #02BCAA !important;
+}
+
+p a, div#content li a, td a, th a, blockquote a {
+  border-bottom-color: #02BCAA99;
+}
+
+p a:hover, div#content li a:hover, td a:hover, th a:hover, blockquote a:hover {
+    color: #000000;
+    text-decoration: none;
+    border-bottom: 2px solid #02BCAA;
+}
+
+p, p a, li, p strong, p span, li strong, div#content li a, blockquote {
+  color: #00000088;
+}
+
+hr {
+  border-bottom-color: #00000091;
+  background: #fff4e5;
+}
+
+div#sidebar-wrapper {
+    background: #fff !important;
+}
+
+
+div#sidebar li, div#sidebar li a {
+    color: #0008 !important;
+}
+
+div#sidebar li a.active-toc, div#sidebar li a:hover {
+  color: #000 !important;
+}
+
+blockquote {
+border-left-color: #0003;
+}
+
+.open-sidebar .fa-bars {
+  color: white !important;
+}

@@ -1,0 +1,122 @@
+/*///////////// COOKIES MODAL START /////////////*/
+
+div#cookies-modal-container {
+  display: flex;
+  justify-content: center;
+}
+
+div#cookies-modal {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+  display: flex !important;
+  background: rgba(255,255,255,.85);
+  padding: 10px 20px;
+  border-radius: 0px;
+  backdrop-filter: blur(6px);
+  z-index: 10;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  box-shadow: 0 0 10px #00000047;
+  right: auto !important;
+}
+
+div#cookies-modal.cookies-d-none {
+  display:none !important;
+}
+
+div#cookies-modal p, div#cookies-modal p a {
+  font-size: 2rem;
+  color: #0009;
+}
+
+div#cookies-modal p a:hover {
+  color: #000;
+}
+
+div#cookies-modal a.cookies-button {
+  background: #7537f8;
+  border-radius: 100px;
+  width: 100%;
+  position: absolute;
+  padding: 7px 0 4px;
+  margin-top: -4px;
+  color: white;
+  box-shadow: 0 0 10px #7537f8;
+  font-size: 2rem;
+}
+
+div#cookies-modal button {
+  padding: 7px 25px 5px;
+  border: 2px solid #fdb0bb;
+  border-radius: 4px;
+  background: #fdfdfd;
+  letter-spacing: 0;
+  color: #fdb0bb;
+  text-transform: uppercase;
+  font-size: 1rem;
+  opacity: .8;
+}
+
+div#cookies-modal div#cookies-title {
+  color: #444;
+}
+
+div#cookies-modal button {
+  float: right;
+  color: #000;
+  border-color: #000;
+  background: rgba(255,255,255,.508);
+  font-size: .9rem;
+  border-width: 1px;
+  line-height: 1;
+  letter-spacing: 0.5px;
+}
+
+div#cookies-modal button:first-child {
+  margin-left: 6px;
+}
+
+div#cookies-modal button:hover {
+  background: #fff;
+  color: #444;
+  box-shadow: none;
+}
+
+div#cookies-title a {
+  color: #333;
+  border-bottom: 2px dotted #08bcaa;
+}
+
+div#cookies-title a:hover {
+  color: black;
+  text-decoration: none;
+  border-bottom: 2px solid #08bcaa;
+}
+
+div#cookies-modal-buttons {
+  margin-top:10px;
+  margin-bottom:10px;
+}
+
+/* div#cookies-modal {
+  width: calc(100% - 10px);
+  border-radius: 6px;
+} */
+
+@media (min-width: 900px) {
+
+  div#cookies-modal {
+    justify-content: space-between;
+    bottom: 20px;
+    border-radius: 6px;
+  }
+  
+}
+
+/*///////////// COOKIES MODAL END /////////////*/

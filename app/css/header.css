@@ -1,0 +1,109 @@
+/*---------- HEADER start ------------*/
+
+header {
+  position: fixed;
+  width: 100%;
+  border-top: 12px solid #00bcaa;
+  margin-top: -12px;
+  z-index: 999999999;
+}
+
+a.active-header-button {
+    border-color: #4dcdbc !important;
+    opacity: 1 !important;
+}
+
+a.fullscreen-button i, a.toc-button i, a.about-button i,  a.version-button, a.community-button i {
+  color: #F46666;
+  font-size: 1.25rem;
+}
+
+a.fullscreen-button, a.toc-button, a.about-button, a.version-button, a.community-button  {
+  border-radius: 6px;
+  opacity: 0.7;
+  position: inherit;
+  top: 25px;
+  height: 40px;
+  width: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  border: 3px solid #0001;
+}
+
+a.fullscreen-button {
+  right: 5px;
+}
+
+a.community-button  {
+  right: 50px;
+}
+
+a.about-button {
+  right: 95px;
+}
+
+a.version-button {
+  right: 140px;
+  font-weight: 700;
+}
+
+a.toc-button {
+  left: 10px;
+  position: fixed;
+}
+
+a.fullscreen-button:hover, a.toc-button:hover, a.about-button:hover, a.version-button:hover, a.community-button:hover {
+  opacity: 1;
+  text-decoration: none;
+  background: black;
+}
+
+button#donations-button {
+  position: fixed;
+  right: 10px;
+  top: 75px;
+}
+
+@media (max-width: 1200px)  {
+
+    button#donations-button {
+      display: none;
+    }
+
+}
+
+/*---------- HEADER end ------------*/
+
+
+/*---------- HEADER [STATES] start ------------*/
+
+
+
+/*---------- HEADER [STATES] end ------------*/
+
+/*---------- HEADER [MEDIA QUERIES] start ------------*/
+
+
+/* Extra small devices (portrait phones, less than 576px) */
+/* No media query for `xs` since this is the default in Bootstrap */
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+}
+
+
+/*---------- HEADER [MEDIA QUERIES] end ------------*/
