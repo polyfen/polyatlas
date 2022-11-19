@@ -32,6 +32,12 @@ a.fullscreen-button, a.toc-button, a.about-button, a.version-button, a.community
   border: 3px solid #0001;
 }
 
+a.version-button {
+  width: auto;
+  padding: 10px;
+  font-weight: 600 !important;
+}
+
 a.fullscreen-button {
   right: 5px;
 }
