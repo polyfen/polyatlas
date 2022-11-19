@@ -1,11 +1,15 @@
 # Poly Atlas
 
-
-[Polyatlas.wiki](https://polyatlas.wiki), a step-by-step wiki guide to the **Branding** process including:
+## A Guide of Best Practices in Branding
+[Polyatlas.wiki](https://polyatlas.wiki) is a step-by-step guide to the **Branding** process including:
 - practical tips
 - case studies
 - resources
 - and more
+
+## About the Code...
+
+I'm a designer, not a coder... so it's not the most elegantly written code, but it works. Any contributions are highly appreciated! 
 
 
 ## Join our Community on Slack!
@@ -22,7 +26,14 @@ All non-authored content within this document is presented solely for educationa
 All authored content within this document is distributed for free by [Boris Hrncic](https://boris.hr) & [The Poly Group](https://thepolygroup.co) under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 
+## Support our cause!
+
+Help us keep polyatlas.wiki running and growing by donating any amount you'd like. Every cent helps!
+
+[Send a Donation](https://donate.stripe.com/fZe4ih3hT6Prg0g000)
+
+
 ## Authors
 
-- [@borishrncic](https://www.github.com/borishrncic)
+- [Boris Hrncic](https://boris.hr)
 - [The Poly Group](https://thepolygroup.co)
