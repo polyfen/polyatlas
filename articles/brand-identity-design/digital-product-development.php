@@ -143,7 +143,7 @@ The Primary personas should be enticed by our services and fill in our contact f
 <small>Template Files</small>
 <img src="imgs/grid.jpg">
 <p>The grid we tend to use is based on Bootstrap's columns but with margins both sides to centre the content in a container with the following proportions: <strong>(XS)</strong> 10px margin (355px wide), <strong>(S)</strong> 20px margin (537px wide), <strong>(M)</strong> 40px margin (689px wide), <strong>(L)</strong> 60px margin (872px wide), <strong>(XL)</strong> 80px margin (1040px wide), <strong>(XXL)</strong> minimum 100px margin (fixed 1480px wide).</p>
-<p><strong>Download ›</strong> <a href="assets/UI_PLAT_Bootstrap-Grid.fig" target="_blank">UI_PLAT_Bootstrap-Grid.fig</a></p>
+<p><strong>Download ›</strong> <a href="downloads/UI_PLAT_Bootstrap-Grid.fig" target="_blank">UI_PLAT_Bootstrap-Grid.fig</a></p>
 <hr class="third-wireframe">
 <small>Task</small>
 <h4>Set-up a Digital Wireframe</h4>

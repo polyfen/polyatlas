@@ -152,7 +152,7 @@
 <img src="imgs/moodboard.jpg">
 <small>Template Files</small>
 <img src="imgs/moodboard-template.jpg">
-<p><strong>Download ›</strong> <a href="assets/IMG_PLAT_Moodboard-Template.ai" target="_blank">IMG_PLAT_Moodboard-Template.ai</a></p>
+<p><strong>Download ›</strong> <a href="downloads/IMG_PLAT_Moodboard-Template.ai" target="_blank">IMG_PLAT_Moodboard-Template.ai</a></p>
 <hr class="second-separator">
 <h3 id="naming">1.6. Naming</h3>
 <small>Task</small>
