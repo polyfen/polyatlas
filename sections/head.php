@@ -48,7 +48,6 @@
   <link rel="stylesheet" href="app/css/about-banner.css" type="text/css">
   <link rel="stylesheet" href="app/css/version-banner.css" type="text/css">
   <link rel="stylesheet" href="app/css/light-theme.css" type="text/css">
-  <link rel="stylesheet" href="app/css/resolution-disclaimer.css" type="text/css">
   <link rel="stylesheet" href="app/css/media-queries.css" type="text/css">
   <link rel="stylesheet" href="app/css/cookies.css" type="text/css">
 

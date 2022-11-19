@@ -197,6 +197,14 @@ p a:hover, div#content li a:hover, td a:hover, th a:hover, blockquote a:hover {
   font-style: normal;
 }
 
+strong, blockquote strong {
+  font-weight: 400;
+}
+
+p a:hover, div#content li a:hover, td a:hover, th a:hover, blockquote a:hover {
+  text-decoration: none;
+ }
+
 /*–––––––––––––––––––– MEDIA QUERIES  ––––––––––––––––––––*/
 
 /* Extra-Small devices (Mobile Narrowest) are set as default */

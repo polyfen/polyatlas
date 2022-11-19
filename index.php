@@ -27,8 +27,6 @@
       <?php include 'sections/donations.php';?>
     <!-- INCLUDE HEADER.PHP end -->
 
-    <?php include 'sections/resolution-disclaimer.php';?>
-
     <div class="container-fluid">
       <div class="row">
         <div id="content" style="width:100%; max-width: 750px;">
