@@ -1,0 +1,55 @@
+h1, h2, h3, h4, h5, h6 {
+  color: #02BCAA;
+}
+
+::selection {
+  background: #02BCAA; /* Cherry */
+}
+
+::-moz-selection { /* Code for Firefox */
+    background: #02BCAA; /* Cherry */
+}
+
+a.fullscreen-button i, a.toc-button i, a.community-button i, a.github-button i {
+  color: #02BCAA;
+}
+
+div#sidebar li a:hover {
+  border-bottom: #02BCAA 1px solid !important;
+}
+
+div#sidebar-title {
+  background: #21a599;
+}
+
+div#sidebar-title a {
+  text-transform: uppercase;
+  margin-top: -1px !important;
+  display: block;
+  margin-left: 10px;
+}
+
+small {
+  color: #02BCAA;
+  border-bottom-color: #02BCAA66;
+}
+
+div#content ul li:before {
+  color: #02BCAA;
+}
+
+a.fullscreen-button, a.toc-button, a.about-button i, a.version-button, a.community-button, a.github-button {
+    color: #02BCAA !important;
+}
+
+a.fullscreen-button:hover, a.toc-button:hover, a.version-button:hover, a.about-button:hover,  a.community-button:hover, a.github-button:hover {
+  background: #02BCAA !important;
+}
+
+p a, div#content li a, td a, th a, blockquote a {
+  border-bottom-color: #02BCAA99;
+}
+
+p a:hover, div#content li a:hover, td a:hover, th a:hover, blockquote a:hover {
+  border-bottom: 2px solid #02BCAA;
+}

@@ -47,7 +47,9 @@
   <link rel="stylesheet" href="app/css/poly-forum-banner.css" type="text/css">
   <link rel="stylesheet" href="app/css/about-banner.css" type="text/css">
   <link rel="stylesheet" href="app/css/version-banner.css" type="text/css">
+  <link rel="stylesheet" href="app/css/theme-reset.css" type="text/css">
   <link rel="stylesheet" href="app/css/light-theme.css" type="text/css">
+  <link rel="stylesheet" href="app/css/dark-theme.css" type="text/css">
   <link rel="stylesheet" href="app/css/media-queries.css" type="text/css">
   <link rel="stylesheet" href="app/css/cookies.css" type="text/css">
 

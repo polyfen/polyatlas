@@ -1,0 +1,66 @@
+body.dark-theme {
+  background: #FEF8F6;
+}
+
+::-moz-selection { /* Code for Firefox */
+  color: #000000; /* Space */
+}
+
+::selection {
+  color: #000000; /* Space */
+}
+
+
+body.dark-theme strong, body.dark-theme blockquote strong {
+    color: white !important;
+}
+
+body.dark-theme div#sidebar li a:hover {
+  color: #000000 !important;
+}
+
+body.dark-theme div#sidebar-title {
+  color: #fff88;
+}
+
+body.dark-theme div#sidebar-title a {
+  color: #000000;
+}
+
+body.dark-theme a.fullscreen-button:hover i, body.dark-theme a.toc-button:hover i, body.dark-theme a.version-button:hover, body.dark-theme a.about-button:hover i, body.dark-theme a.community-button:hover i, body.dark-theme a.github-button:hover i {
+  color: #000000 !important;
+}
+
+body.dark-theme p a:hover, body.dark-theme div#content li a:hover, body.dark-theme td a:hover, body.dark-theme th a:hover, blockquote a:hover {
+    color: #FFFFFF;
+}
+
+body.dark-theme p, body.dark-theme p a, body.dark-theme li, body.dark-theme p strong, body.dark-theme p span, body.dark-theme li strong, body.dark-theme div#content li a, body.dark-theme blockquote {
+  color: #FFFFFF88;
+}
+
+body.dark-theme hr {
+  border-bottom-color: #FFFFFF91;
+  background: #fff4e5;
+}
+
+body.dark-theme div#sidebar-wrapper {
+    background: #000 !important;
+}
+
+
+body.dark-theme div#sidebar li, body.dark-theme div#sidebar li a {
+    color: #FFF8 !important;
+}
+
+body.dark-theme div#sidebar li a.active-toc, body.dark-theme div#sidebar li a:hover {
+  color: #FFF !important;
+}
+
+body.dark-theme blockquote {
+border-left-color: #FFF3;
+}
+
+body.dark-theme .open-sidebar .fa-bars {
+  color: black !important;
+}
