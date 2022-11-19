@@ -1,4 +1,4 @@
-    <a href="../"><img src="imgs/poly-atlas.svg" style="background:none !important;box-shadow:none;height:50px;width:auto;"></a>
+    <a href="../"><img id="poly-atlas-logo" src="imgs/poly-atlas.svg" style="background:none !important;box-shadow:none;height:50px;width:auto;"><img id="poly-atlas-negative-logo" src="imgs/poly-atlas-negative.svg" style="background:none !important;box-shadow:none;height:50px;width:auto;"></a>
     <hr class="second-separator first-separator">
     <h1>A Guide of Best Practices in Branding</h1>
     <p>Poly Atlas features a step-by-step guide to the Branding process including practical tips, case studies, template files, and many other useful resources.</p>

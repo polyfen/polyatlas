@@ -10,6 +10,10 @@ body.light-theme {
   color: #FFFFFF; /* Space */
 }
 
+body.light-theme img#poly-atlas-negative-logo {
+  display: none;
+}
+
 
 body.light-theme strong, body.light-theme blockquote strong {
     color: black !important;

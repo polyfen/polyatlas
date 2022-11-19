@@ -10,6 +10,9 @@ body.dark-theme {
   color: #000000; /* Space */
 }
 
+body.dark-theme img#poly-atlas-logo {
+  display: none;
+}
 
 body.dark-theme strong, body.dark-theme blockquote strong {
     color: white !important;
