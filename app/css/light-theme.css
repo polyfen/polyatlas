@@ -68,3 +68,7 @@ border-left-color: #0003;
 body.light-theme .open-sidebar .fa-bars {
   color: white !important;
 }
+
+body.light-theme a#change-to-light {
+  display: none !important;
+}

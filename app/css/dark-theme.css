@@ -30,7 +30,7 @@ body.dark-theme div#sidebar-title a {
   color: #000000;
 }
 
-body.dark-theme a.fullscreen-button:hover i, body.dark-theme a.toc-button:hover i, body.dark-theme a.version-button:hover, body.dark-theme a.about-button:hover i, body.dark-theme a.community-button:hover i, body.dark-theme a.github-button:hover i {
+body.dark-theme a.fullscreen-button:hover i, body.dark-theme a.toc-button:hover i, body.dark-theme a.version-button:hover, body.dark-theme a.about-button:hover i, body.dark-theme a.community-button:hover i, body.dark-theme a.change-theme-button:hover i {
   color: #000000 !important;
 }
 
@@ -66,4 +66,8 @@ border-left-color: #FFF3;
 
 body.dark-theme .open-sidebar .fa-bars {
   color: black !important;
+}
+
+body.dark-theme a#change-to-dark {
+  display: none;
 }

@@ -18,7 +18,7 @@
     <div class="sidebar-separator"></div>
     <nav id="table-of-contents">
       <ul>
-        <li><a href="#getting-started" id="toc-getting-started">Getting Started</a></li>
+        <li><a href="#top" id="toc-getting-started">Getting Started</a></li>
         <li><a href="#intro-to-branding" id="toc-intro-to-branding">Intro to Branding</a></li>
           <ol>
             <li><a href="#what-is-a-brand" id="toc-what-is-a-brand">What is a Brand?</a></li>
