@@ -13,12 +13,12 @@ a.active-header-button {
     opacity: 1 !important;
 }
 
-a.fullscreen-button i, a.toc-button i, a.about-button i,  a.version-button, a.community-button i {
+a.fullscreen-button i, a.toc-button i, a.about-button i,  a.version-button, a.community-button i, a.github-button i {
   color: #F46666;
   font-size: 1.25rem;
 }
 
-a.fullscreen-button, a.toc-button, a.about-button, a.version-button, a.community-button  {
+a.fullscreen-button, a.toc-button, a.about-button, a.version-button, a.community-button, a.github-button  {
   border-radius: 6px;
   opacity: 0.7;
   position: inherit;
@@ -36,16 +36,12 @@ a.fullscreen-button {
   right: 5px;
 }
 
-a.community-button  {
+a.github-button  {
   right: 50px;
 }
 
-a.about-button {
-  right: 95px;
-}
-
 a.version-button {
-  right: 140px;
+  right: 95px;
   font-weight: 700;
 }
 
@@ -54,7 +50,7 @@ a.toc-button {
   position: fixed;
 }
 
-a.fullscreen-button:hover, a.toc-button:hover, a.about-button:hover, a.version-button:hover, a.community-button:hover {
+a.fullscreen-button:hover, a.toc-button:hover, a.about-button:hover, a.version-button:hover, a.community-button:hover, a.github-button:hover {
   opacity: 1;
   text-decoration: none;
   background: black;

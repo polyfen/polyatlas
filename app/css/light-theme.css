@@ -27,7 +27,7 @@ strong, blockquote strong {
     font-weight: 400;
 }
 
-a.fullscreen-button i, a.toc-button i, a.community-button i {
+a.fullscreen-button i, a.toc-button i, a.community-button i, a.github-button i {
   color: #02BCAA;
 }
 
@@ -59,15 +59,15 @@ div#content ul li:before {
   color: #02BCAA;
 }
 
-a.fullscreen-button, a.toc-button, a.about-button i, a.version-button, a.community-button {
+a.fullscreen-button, a.toc-button, a.about-button i, a.version-button, a.community-button, a.github-button {
     color: #02BCAA !important;
 }
 
-a.fullscreen-button:hover i, a.toc-button:hover i, a.version-button:hover, a.about-button:hover i,  a.community-button:hover i {
+a.fullscreen-button:hover i, a.toc-button:hover i, a.version-button:hover, a.about-button:hover i,  a.community-button:hover i, a.github-button:hover i {
   color: #FFF !important;
 }
 
-a.fullscreen-button:hover, a.toc-button:hover, a.version-button:hover, a.about-button:hover,  a.community-button:hover {
+a.fullscreen-button:hover, a.toc-button:hover, a.version-button:hover, a.about-button:hover,  a.community-button:hover, a.github-button:hover {
     background: #02BCAA !important;
 }
 
