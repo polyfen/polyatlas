@@ -87,6 +87,19 @@ footer a img, #sidebar a img {
   background: none;
 }
 
+div#poly-atlas-heading {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-content: center;
+  align-items: flex-start;
+}
+
+div#poly-atlas-heading a#github-link:hover {
+  color: white;
+}
+
 /*---------- GENERAL end ------------*/
 
 

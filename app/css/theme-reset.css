@@ -10,7 +10,7 @@ h1, h2, h3, h4, h5, h6 {
     background: #02BCAA; /* Cherry */
 }
 
-a.fullscreen-button i, a.toc-button i, a.community-button i, a.change-theme-button i {
+a.fullscreen-button i, a.toc-button i, a.community-button i, a.github-button i, a.change-theme-button i {
   color: #02BCAA;
 }
 

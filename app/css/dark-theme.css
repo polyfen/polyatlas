@@ -76,7 +76,7 @@ body.dark-theme div#the-poly-group {
   display: none;
 }
 
-header.dark-theme a.fullscreen-button, header.dark-theme a.toc-button, header.dark-theme a.about-button, header.dark-theme a.version-button, header.dark-theme a.community-button, header.dark-theme a.change-theme-button {
+header.dark-theme a.fullscreen-button, header.dark-theme a.toc-button, header.dark-theme a.about-button, header.dark-theme a.version-button, header.dark-theme a.community-button, header.dark-theme a.change-theme-button, header.dark-theme a.github-button {
   border-color: #FFFfff2b;
 }
 
@@ -98,4 +98,18 @@ body.dark-theme th {
 
 body.dark-theme a.toc-button {
   border-color: #FFFfff2b;
+}
+
+body.dark-theme div#poly-atlas-heading a#github-link {
+  color: #FFFFFF088 !important;
+  margin-top: 14px;
+}
+
+body.dark-theme div#poly-atlas-heading a#github-link i {
+  color: #FFFFFF88 !important;
+}
+
+body.dark-theme div#poly-atlas-heading a#github-link:hover, body.dark-theme div#poly-atlas-heading a#github-link:hover i {
+  color: white !important;
+  text-decoration: none;
 }

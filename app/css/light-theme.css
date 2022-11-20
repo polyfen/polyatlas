@@ -77,6 +77,20 @@ body.light-theme div#the-poly-group-negative {
   display: none;
 }
 
-header.light-theme a.fullscreen-button, header.light-theme a.toc-button, header.light-theme a.about-button, header.light-theme a.version-button, header.light-theme a.community-button, header.light-theme a.change-theme-button {
+header.light-theme a.fullscreen-button, header.light-theme a.toc-button, header.light-theme a.about-button, header.light-theme a.version-button, header.light-theme a.community-button, header.light-theme a.change-theme-button, header.light-theme a.github-button {
   border-color: #00000015;
+}
+
+body.light-theme div#poly-atlas-heading a#github-link {
+  color: #00000088 !important;
+  margin-top: 14px;
+}
+
+body.light-theme div#poly-atlas-heading a#github-link i {
+  color: #00000088 !important;
+}
+
+body.light-theme div#poly-atlas-heading a#github-link:hover, body.light-theme div#poly-atlas-heading a#github-link:hover i {
+  color: black !important;
+  text-decoration: none;
 }
