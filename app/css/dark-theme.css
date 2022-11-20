@@ -95,3 +95,7 @@ body.dark-theme td, body.dark-theme th, body.dark-theme td a, body.dark-theme th
 body.dark-theme th {
   color: white !important;
 }
+
+body.dark-theme a.toc-button {
+  border-color: #FFFfff2b;
+}
