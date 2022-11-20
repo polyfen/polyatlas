@@ -22,7 +22,7 @@ html {
 }
 
 body {
-  margin-bottom: 85px; /* Margin bottom by footer height for sticky footer */
+  padding-bottom: 85px; /* Margin bottom by footer height for sticky footer */
 }
 
 ::-moz-selection { /* Code for Firefox */
