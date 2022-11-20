@@ -27,11 +27,11 @@ body.dark-theme div#sidebar-title {
 }
 
 body.dark-theme div#sidebar-title a {
-  color: #000000;
+  color: #fff;
 }
 
 body.dark-theme a.fullscreen-button:hover i, body.dark-theme a.toc-button:hover i, body.dark-theme a.version-button:hover, body.dark-theme a.about-button:hover i, body.dark-theme a.community-button:hover i, body.dark-theme a.change-theme-button:hover i {
-  color: #000000 !important;
+  color: #FFFFFF !important;
 }
 
 body.dark-theme p a:hover, body.dark-theme div#content li a:hover, body.dark-theme td a:hover, body.dark-theme th a:hover, blockquote a:hover {
@@ -65,9 +65,33 @@ border-left-color: #FFF3;
 }
 
 body.dark-theme .open-sidebar .fa-bars {
-  color: black !important;
+  color: white !important;
 }
 
 body.dark-theme a#change-to-dark {
   display: none;
+}
+
+body.dark-theme div#the-poly-group {
+  display: none;
+}
+
+header.dark-theme a.fullscreen-button, header.dark-theme a.toc-button, header.dark-theme a.about-button, header.dark-theme a.version-button, header.dark-theme a.community-button, header.dark-theme a.change-theme-button {
+  border-color: #FFFfff2b;
+}
+
+body.dark-theme div#version-banner {
+  background: #000000;
+}
+
+body.dark-theme div#version-banner i.fa-times {
+  color: white !important;
+}
+
+body.dark-theme td, body.dark-theme th, body.dark-theme td a, body.dark-theme th a, body.dark-theme blockquote a {
+  color: #FFFFFF88;
+}
+
+body.dark-theme th {
+  color: white !important;
 }

@@ -1,5 +1,5 @@
 <div id="version-banner" class="d-none">
-  <a id="close-banner" onclick="document.getElementById('version-banner').className='d-none';document.getElementById('version-button-active').className='d-none';document.getElementById('version-button-inactive').className='version-button inactive-header-button';"><i class="fas fa-times" style="color:black !important;"></i></a>
+  <a id="close-banner" onclick="document.getElementById('version-banner').className='d-none';document.getElementById('version-button-active').className='d-none';document.getElementById('version-button-inactive').className='version-button inactive-header-button';"><i class="fas fa-times" style="color:black;"></i></a>
   <h2 style="font-size:2rem;padding:0;">Latest updates</h2>
   <hr style="margin:-15px 0 20px;opacity:0.2;">
   <p style="font-size:1rem;margin-bottom:20px;">

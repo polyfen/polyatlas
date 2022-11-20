@@ -6,7 +6,7 @@ footer {
     padding: 20px;
 }
 
-footer #the-poly-group {
+footer #the-poly-group, footer #the-poly-group-negative {
   right: 5px;
   position: fixed;
   bottom: 15px;

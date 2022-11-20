@@ -72,3 +72,11 @@ body.light-theme .open-sidebar .fa-bars {
 body.light-theme a#change-to-light {
   display: none !important;
 }
+
+body.light-theme div#the-poly-group-negative {
+  display: none;
+}
+
+header.light-theme a.fullscreen-button, header.light-theme a.toc-button, header.light-theme a.about-button, header.light-theme a.version-button, header.light-theme a.community-button, header.light-theme a.change-theme-button {
+  border-color: #00000015;
+}
