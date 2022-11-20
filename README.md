@@ -9,7 +9,7 @@
 
 ## About the Code...
 
-I'm a designer, not an engineer... so it's not the most elegantly written code, but it works. Any contributions are highly appreciated! 
+I'm a designer, not an engineer, so it's not the most elegant solution in terms of the code, but it works. Any contributions are highly appreciated! 
 
 
 ## Join our Community on Slack!
