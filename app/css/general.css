@@ -89,11 +89,12 @@ footer a img, #sidebar a img {
 
 div#poly-atlas-heading {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   flex-wrap: wrap;
-  justify-content: space-between;
-  align-content: center;
+  justify-content: flex-start;
+  align-content: flex-start;
   align-items: flex-start;
+  margin-bottom: 40px;
 }
 
 
@@ -113,10 +114,20 @@ div#poly-atlas-heading {
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
+  
 }
 
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) {
+
+  div#poly-atlas-heading {
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center;
+    align-items: flex-start;
+    margin-bottom: 0;
+  }
+
 }
 
 /* Extra large devices (large desktops, 1200px and up) */

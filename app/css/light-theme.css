@@ -81,16 +81,16 @@ header.light-theme a.fullscreen-button, header.light-theme a.toc-button, header.
   border-color: #00000015;
 }
 
-body.light-theme div#poly-atlas-heading a#github-link {
+body.light-theme div#poly-atlas-heading a#github-link, body.light-theme div#poly-atlas-heading a#slack-link {
   color: #00000088 !important;
   margin-top: 14px;
 }
 
-body.light-theme div#poly-atlas-heading a#github-link i {
+body.light-theme div#poly-atlas-heading a#github-link i, body.light-theme div#poly-atlas-heading a#slack-link i {
   color: #00000088 !important;
 }
 
-body.light-theme div#poly-atlas-heading a#github-link:hover, body.light-theme div#poly-atlas-heading a#github-link:hover i {
+body.light-theme div#poly-atlas-heading a#github-link:hover, body.light-theme div#poly-atlas-heading a#github-link:hover i, body.light-theme div#poly-atlas-heading a#slack-link:hover, body.light-theme div#poly-atlas-heading a#slack-link:hover i {
   color: black !important;
   text-decoration: none;
 }

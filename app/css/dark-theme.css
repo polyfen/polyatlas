@@ -100,16 +100,16 @@ body.dark-theme a.toc-button {
   border-color: #FFFfff2b;
 }
 
-body.dark-theme div#poly-atlas-heading a#github-link {
+body.dark-theme div#poly-atlas-heading a#github-link, body.dark-theme div#poly-atlas-heading a#slack-link {
   color: #FFFFFF088 !important;
   margin-top: 14px;
 }
 
-body.dark-theme div#poly-atlas-heading a#github-link i {
+body.dark-theme div#poly-atlas-heading a#github-link i, body.dark-theme div#poly-atlas-heading a#slack-link i {
   color: #FFFFFF88 !important;
 }
 
-body.dark-theme div#poly-atlas-heading a#github-link:hover, body.dark-theme div#poly-atlas-heading a#github-link:hover i {
+body.dark-theme div#poly-atlas-heading a#github-link:hover, body.dark-theme div#poly-atlas-heading a#github-link:hover i, body.dark-theme div#poly-atlas-heading a#slack-link:hover, body.dark-theme div#poly-atlas-heading a#slack-link:hover i {
   color: white !important;
   text-decoration: none;
 }

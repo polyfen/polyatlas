@@ -1,6 +1,7 @@
     <div id="poly-atlas-heading">
       <a href="../"><img id="poly-atlas-logo" src="imgs/poly-atlas.svg" style="background:none !important;box-shadow:none;height:50px;width:auto;"><img id="poly-atlas-negative-logo" src="imgs/poly-atlas-negative.svg" style="background:none !important;box-shadow:none;height:50px;width:auto;"></a>
       <a id="github-link" href="https://github.com/The-Poly-Group/poly-atlas" target="_blank" style="float: right;color: #FFFFFF88;"><i class="fa-brands fa-github" style="margin-right: 2px;"></i> an open-source project</a>
+      <a id="slack-link" href="https://polyforum.org/join" target="_blank" style="float: right;color: #FFFFFF88;"><i class="fa-brands fa-slack" style="margin-right: 2px;"></i> join our community on Slack</a>
     </div>
     <hr class="second-separator first-separator">
     <h1>A Guide of Best Practices in Branding</h1>
