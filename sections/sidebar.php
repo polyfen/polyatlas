@@ -18,25 +18,25 @@
     <div class="sidebar-separator"></div>
     <nav id="table-of-contents">
       <ul>
-        <li><a href="#top" id="toc-getting-started">Getting Started</a></li>
-        <li><a href="#intro-to-branding" id="toc-intro-to-branding">Intro to Branding</a></li>
+        <li><a href="index.php#top" id="toc-getting-started">Getting Started</a></li>
+        <li><a href="intro-to-branding.php#top" id="toc-intro-to-branding">Intro to Branding</a></li>
           <ol>
-            <li><a href="#what-is-a-brand" id="toc-what-is-a-brand">What is a Brand?</a></li>
-            <li><a href="#what-is-branding" id="toc-what-is-branding">What is Branding?</a></li>
-            <li><a href="#what-is-a-logo" id="toc-what-is-a-logo">What is a Logo?</a></li>
-            <li><a href="#terminology" id="toc-terminology">Terminology</a></li>
+            <li><a href="intro-to-branding.php#what-is-a-brand" id="toc-what-is-a-brand">What is a Brand?</a></li>
+            <li><a href="intro-to-branding.php#what-is-branding" id="toc-what-is-branding">What is Branding?</a></li>
+            <li><a href="intro-to-branding.php#what-is-a-logo" id="toc-what-is-a-logo">What is a Logo?</a></li>
+            <li><a href="intro-to-branding.php#terminology" id="toc-terminology">Terminology</a></li>
           </ol>
-        <li><a href="#business-development" id="toc-business-development">Business Development</a></li>
+        <li><a href="business-development.php#top" id="toc-business-development">Business Development</a></li>
         <ol>
-        <li><a href="#market-research" id="toc-market-research">Market Research</a></li>
+        <li><a href="business-development.php#market-research" id="toc-market-research">Market Research</a></li>
           <ol>
-            <li><a href="#business-analysis" id="toc-business-analysis">Business analysis</a></li>
-            <li><a href="#target-public-analysis" id="toc-target-public-analysis">Target public analysis</a></li>
-            <li><a href="#industry-analysis" id="toc-industry-analysis">Industry analysis</a></li>
-            <li><a href="#research-conclusion" id="toc-research-conclusion">Research conclusion</a></li>
+            <li><a href="business-development.php#business-analysis" id="toc-business-analysis">Business analysis</a></li>
+            <li><a href="business-development.php#target-public-analysis" id="toc-target-public-analysis">Target public analysis</a></li>
+            <li><a href="business-development.php#industry-analysis" id="toc-industry-analysis">Industry analysis</a></li>
+            <li><a href="business-development.php#research-conclusion" id="toc-research-conclusion">Research conclusion</a></li>
           </ol>
-        <li><a href="#business-plan" id="toc-business-plan">Business Plan</a></li>
-        <li><a href="#products-and-services" id="toc-products-and-services">Products &amp; Services</a></li>
+        <li><a href="business-development.php#business-plan" id="toc-business-plan">Business Plan</a></li>
+        <li><a href="business-development.php#products-and-services" id="toc-products-and-services">Products &amp; Services</a></li>
         </ol>
         <li><a href="#brand-identity-design" id="toc-brand-identity-design">Brand Identity Design</a></li>
           <ol>

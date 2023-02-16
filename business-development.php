@@ -41,6 +41,8 @@
         <h2 id="business-development">Business Development</h2>
         <p>So you've decided to start a business. Odds are you're getting yourself into something much bigger and difficult that you might have first imagined. However, don't beat yourself down. The solution to facing the herculean task of starting a business is research, planning, executing, and continuously optimising step-by-step. The good thing, is that we've got you covered! Following this framework can be a helpful tool to guiding you through the process of business development.</p>
 
+        <hr class="second-separator">
+
         <h2 id="market-research">1. Market Research</h2>
         <p>Exhaustive research is the cornerstone of a strong Brand; It bridges the gap between Business Goals and Brand Identity. Furthermore, the Market Research is not only useful for the Identity Design, but it's also useful for all marketing activities of the business.</p>
         <small>The Poly Group</small>
@@ -268,6 +270,19 @@
         <p>For us at The Poly Group for instance, this very platform, Poly Atlas, serves as an internal wiki referring to the workflow of the services we provide.</p>
 
         
+
+        <hr>
+
+        <div class="inter-page-navigation">
+          <a class="previous-page-title" href="intro-to-branding.php">
+            <small>‹ Previous</small>
+            Intro to Branding
+          </a>
+          <a class="next-page-title" href="brand-identity-design.php">
+            <small>Next ›</small>
+            Brand Identity Design
+          </a>
+        </div>
 
         <hr>
 
