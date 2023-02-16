@@ -32,7 +32,7 @@ a.fullscreen-button, a.toc-button, a.about-button, a.version-button, a.community
   align-items: center;
   justify-content: center;
   text-align: center;
-  border: 3px solid #0001;
+  border: 1px solid #0001;
 }
 
 a.version-button {
