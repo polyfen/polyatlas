@@ -38,28 +38,28 @@
         <li><a href="business-development.php#business-plan" id="toc-business-plan">Business Plan</a></li>
         <li><a href="business-development.php#products-and-services" id="toc-products-and-services">Products &amp; Services</a></li>
         </ol>
-        <li><a href="#brand-identity-design" id="toc-brand-identity-design">Brand Identity Design</a></li>
+        <li><a href="brand-identity-design.php#top" id="toc-brand-identity-design">Brand Identity Design</a></li>
           <ol>
-            <li><a href="#brand-strategy" id="toc-brand-strategy">Brand Strategy</a></li>
+            <li><a href="brand-strategy.php#top" id="toc-brand-strategy">Brand Strategy</a></li>
               <ol>
-                <li><a href="#voice" id="toc-voice">Voice</a></li>
-                <li><a href="#tone" id="toc-tone">Tone</a></li>
-                <li><a href="#keywords" id="toc-keywords">Keywords</a></li>
-                <li><a href="#creative-concept" id="toc-creative-concept">Creative concept</a></li>
-                <li><a href="#moodboard" id="toc-moodboard">Moodboard</a></li>
-                <li><a href="#naming" id="toc-naming">Naming</a></li>
-                <li><a href="#brand-architecture" id="toc-brand-architecture">Brand architecture</a></li>
-                <li><a href="#key-messages" id="toc-key-messages">Key messages</a></li>
+                <li><a href="brand-strategy.php#voice" id="toc-voice">Voice</a></li>
+                <li><a href="brand-strategy.php#tone" id="toc-tone">Tone</a></li>
+                <li><a href="brand-strategy.php#keywords" id="toc-keywords">Keywords</a></li>
+                <li><a href="brand-strategy.php#creative-concept" id="toc-creative-concept">Creative concept</a></li>
+                <li><a href="brand-strategy.php#moodboard" id="toc-moodboard">Moodboard</a></li>
+                <li><a href="brand-strategy.php#naming" id="toc-naming">Naming</a></li>
+                <li><a href="brand-strategy.php#brand-architecture" id="toc-brand-architecture">Brand architecture</a></li>
+                <li><a href="brand-strategy.php#key-messages" id="toc-key-messages">Key messages</a></li>
               </ol>
-            <li><a href="#visual-identity" id="toc-visual-identity">Visual Identity</a></li>
+            <li><a href="visual-identity.php#top" id="toc-visual-identity">Visual Identity</a></li>
               <ol>
-                <li><a href="#visual-exploration" id="toc-visual-exploration">Visual exploration</a></li>
-                <li><a href="#logo-system" id="toc-logo-system">Logo system</a></li>
-                <li><a href="#typeface-selection" id="toc-typeface-selection">Typeface selection</a></li>
-                <li><a href="#colour-scheme" id="toc-colour-scheme">Colour scheme</a></li>
-                <li><a href="#visual-language" id="toc-visual-language">Visual language</a></li>
+                <li><a href="visual-identity.php#visual-exploration" id="toc-visual-exploration">Visual exploration</a></li>
+                <li><a href="visual-identity.php#logo-system" id="toc-logo-system">Logo system</a></li>
+                <li><a href="visual-identity.php#typeface-selection" id="toc-typeface-selection">Typeface selection</a></li>
+                <li><a href="visual-identity.php#colour-scheme" id="toc-colour-scheme">Colour scheme</a></li>
+                <li><a href="visual-identity.php#visual-language" id="toc-visual-language">Visual language</a></li>
               </ol>
-            <li><a href="#brand-guidelines" id="toc-brand-guidelines">Brand Guidelines</a></li>
+            <li><a href="brand-guidelines.php#top" id="toc-brand-guidelines">Brand Guidelines</a></li>
             <li><a href="#basic-touchpoints" id="toc-basic-touchpoints">Basic Touchpoints</a></li>
               <ol>
                 <li><a href="#social-media" id="toc-social-media">Social media</a></li>

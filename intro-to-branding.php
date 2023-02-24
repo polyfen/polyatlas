@@ -5,7 +5,7 @@
   <?php include 'sections/head.php';?>
 <!-- INCLUDE HEAD.PHP end -->
 
-  <body id="web-body" class="light-theme">
+  <body id="intro-to-branding-container" class="light-theme">
 
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WKN32JZ"

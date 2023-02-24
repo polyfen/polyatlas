@@ -117,6 +117,11 @@ nav#table-of-contents {
   padding-top: 75px;
 }
 
+body#getting-started-container.light-theme div#sidebar li a#toc-getting-started, body#intro-to-branding-container.light-theme div#sidebar li a#toc-intro-to-branding, body#business-development-container.light-theme div#sidebar li a#toc-business-development, body#brand-identity-design-container.light-theme div#sidebar li a#toc-brand-identity-design, body#brand-strategy-container.light-theme div#sidebar li a#toc-brand-strategy, body#visual-identity-container.light-theme div#sidebar li a#toc-visual-identity, body#brand-guidelines-container.light-theme div#sidebar li a#toc-brand-guidelines {
+  color: #000 !important;
+  font-weight: 600;
+}
+
 /*---------- SIDEBAR end ------------*/
 
 
