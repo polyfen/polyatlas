@@ -69,30 +69,29 @@
                 <li><a href="#letterhead" id="toc-letterhead">Letterhead</a></li>
                 <li><a href="#presentation-slides" id="toc-presentation-slides" >Presentation slides</a></li>
               </ol>
-              <li><a href="#digital-product-development" id="toc-digital-product-development">Digital Product Development</a></li>
-              <ol>
-                <li><a href="#user-stories" id="toc-user-stories">User stories</a></li>
-                <li><a href="#user-journey" id="toc-user-journey">User journey</a></li>
-                <li><a href="#user-flow" id="toc-user-flow">User flow</a></li>
-                <li><a href="#information-architecture" id="toc-information-architecture">Information architecture</a></li>
-                <li><a href="#content-creation" id="toc-content-creation">Content creation</a></li>
-                <li><a href="#wireframing" id="toc-wireframing">Wireframing</a></li>
-                <li><a href="#design-comps" id="toc-design-comps">Design comps</a></li>
-                <li><a href="#prototyping" id="toc-prototyping">Prototyping</a></li>
-                <li><a href="#testing" id="toc-testing">Usability Testing</a></li>
-                <li><a href="#programming" id="toc-programming">Programming</a></li>
-              </ol>
-          </ol>
+            </ol>
+            <li><a href="digital-product-development.php#top" id="toc-digital-product-development">Digital Product Development</a></li>
+            <ol>
+              <li><a href="digital-product-development.php#user-stories" id="toc-user-stories">User stories</a></li>
+              <li><a href="digital-product-development.php#user-journey" id="toc-user-journey">User journey</a></li>
+              <li><a href="digital-product-development.php#user-flow" id="toc-user-flow">User flow</a></li>
+              <li><a href="digital-product-development.php#information-architecture" id="toc-information-architecture">Information architecture</a></li>
+              <li><a href="#content-creation" id="toc-content-creation">Content creation</a></li>
+              <li><a href="#wireframing" id="toc-wireframing">Wireframing</a></li>
+              <li><a href="#design-comps" id="toc-design-comps">Design comps</a></li>
+              <li><a href="#prototyping" id="toc-prototyping">Prototyping</a></li>
+              <li><a href="#testing" id="toc-testing">Usability Testing</a></li>
+              <li><a href="#programming" id="toc-programming">Programming</a></li>
+            </ol>
           <li class="future-section" title="under development"><a href="#brand-activation" id="toc-brand-activation">[Brand Activation]</a></li>
           <li class="future-section" title="under development"><a href="#brand-iteration" id="toc-brand-iteration">[Brand Iteration]</a></li>
-        <li><a href="#bibliography" id="toc-bibliography">Bibliography</a></li>
+        <li><a href="bibliography.php#top" id="toc-bibliography">Bibliography</a></li>
         <ol>
-          <li><a href="#books" id="toc-books">Books</a></li>
-          <li><a href="#blogs-and-sources" id="toc-blogs-and-sources">Blog &amp; Sources</a></li>
-          <li><a href="#tools-and-resources" id="toc-tools-and-resources">Tools &amp; Resources</a></li>
+          <li><a href="bibliography.php#books" id="toc-books">Books</a></li>
+          <li><a href="bibliography.php#blogs-and-sources" id="toc-blogs-and-sources">Blog &amp; Sources</a></li>
+          <li><a href="bibliography.php#tools-and-resources" id="toc-tools-and-resources">Tools &amp; Resources</a></li>
         </ol>
-        <li><a href="#poly-forum" id="toc-poly-forum">Poly Forum</a></li>
-        <li><a href="#colophon" id="toc-colophon">Colophon</a></li>
+        <li><a href="colophon.php#top" id="toc-colophon">Colophon</a></li>
       </ul>
     </nav>
   </div>
