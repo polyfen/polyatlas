@@ -1,5 +1,23 @@
 /*---------- FOOTER start ------------*/
 
+div.inter-page-navigation a small {
+  border-color: #02BCAA ;
+}
+
+div.inter-page-navigation a:hover {
+  text-decoration: none;
+}
+
+div.inter-page-navigation a.previous-page-title {
+  float: left;
+  text-align: left;
+}
+
+div.inter-page-navigation a.next-page-title {
+  float: right;
+  text-align: right;
+}
+
 footer {
     position: fixed;
     bottom: 0;
