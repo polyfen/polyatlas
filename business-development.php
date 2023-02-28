@@ -276,12 +276,13 @@
         <div class="inter-page-navigation">
           <a class="previous-page-title" href="intro-to-branding.php">
             <small>‹ Previous</small>
-            Intro to Branding
+            <small>Intro to Branding</small>
           </a>
           <a class="next-page-title" href="brand-identity-design.php">
             <small>Next ›</small>
-            Brand Identity Design
+            <small>Brand Identity Design</small>
           </a>
+          <div style="clear:both;"></div>
         </div>
 
         <hr>

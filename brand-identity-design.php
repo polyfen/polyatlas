@@ -49,12 +49,13 @@
         <div class="inter-page-navigation">
           <a class="previous-page-title" href="business-development.php">
             <small>‹ Previous</small>
-            Business Development
+            <small>Business Development</small>
           </a>
           <a class="next-page-title" href="brand-strategy.php">
             <small>Next ›</small>
-            1. Brand Strategy
+            <small>1. Brand Strategy</small>
           </a>
+          <div style="clear:both;"></div>
         </div>
 
         <hr>

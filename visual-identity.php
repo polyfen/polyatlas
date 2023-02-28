@@ -233,12 +233,13 @@
         <div class="inter-page-navigation">
           <a class="previous-page-title" href="brand-strategy.php">
             <small>‹ Previous</small>
-            1. Brand Strategy
+            <small>1. Brand Strategy</small>
           </a>
           <a class="next-page-title" href="brand-guidelines.php">
             <small>Next ›</small>
-            3. Brand Guidelines
+            <small>3. Brand Guidelines</small>
           </a>
+          <div style="clear:both;"></div>
         </div>
 
         <hr>

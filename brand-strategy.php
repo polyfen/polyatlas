@@ -449,12 +449,13 @@
         <div class="inter-page-navigation">
           <a class="previous-page-title" href="brand-identity-design.php">
             <small>‹ Previous</small>
-            Brand Identity Design
+            <small>Brand Identity Design</small>
           </a>
           <a class="next-page-title" href="visual-identity.php">
             <small>Next ›</small>
-            2. Visual Identity
+            <small>2. Visual Identity</small>
           </a>
+          <div style="clear:both;"></div>
         </div>
 
         <hr>

@@ -137,12 +137,13 @@
         <div class="inter-page-navigation">
           <a class="previous-page-title" href="brand-guidelines.php">
             <small>‹ Previous</small>
-            3. Brand Guidelines
+            <small>3. Brand Guidelines</small>
           </a>
           <a class="next-page-title" href="digital-product-development.php">
             <small>Next ›</small>
-            Digital Product Development
+            <small>Digital Product Development</small>
           </a>
+          <div style="clear:both;"></div>
         </div>
 
         <hr>

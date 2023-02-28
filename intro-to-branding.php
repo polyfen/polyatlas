@@ -120,12 +120,13 @@
         <div class="inter-page-navigation">
           <a class="previous-page-title" href="getting-started.php">
             <small>‹ Previous</small>
-            Getting Started
+            <small>Getting Started</small>
           </a>
           <a class="next-page-title" href="business-development.php">
             <small>Next ›</small>
-            Business Development
+            <small>Business Development</small>
           </a>
+          <div style="clear:both;"></div>
         </div>
 
         <hr>

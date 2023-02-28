@@ -61,8 +61,9 @@
         <div class="inter-page-navigation">
           <a class="next-page-title" href="intro-to-branding.php">
             <small>Next ›</small>
-            Intro to Branding
+            <small>Intro to Branding</small>
           </a>
+          <div style="clear:both;"></div>
         </div>
 
         <hr>

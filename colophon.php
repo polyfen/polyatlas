@@ -48,8 +48,9 @@
         <div class="inter-page-navigation">
           <a class="previous-page-title" href="bibliography.php">
             <small>‹ Previous</small>
-            Bibliography
+            <small>Bibliography</small>
           </a>
+          <div style="clear:both;"></div>
         </div>
 
         <hr>

@@ -170,12 +170,13 @@
         <div class="inter-page-navigation">
           <a class="previous-page-title" href="digital-product-development.php">
             <small>‹ Previous</small>
-            Digital Product Development
+            <small>Digital Product Development</small>
           </a>
           <a class="next-page-title" href="colophon.php">
             <small>Next ›</small>
-            Colophon
+            <small>Colophon</small>
           </a>
+          <div style="clear:both;"></div>
         </div>
 
         <hr>

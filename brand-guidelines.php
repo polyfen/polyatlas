@@ -69,12 +69,13 @@
         <div class="inter-page-navigation">
           <a class="previous-page-title" href="visual-identity.php">
             <small>‹ Previous</small>
-            2. Visual Identity
+            <small>2. Visual Identity</small>
           </a>
           <a class="next-page-title" href="basic-touchpoints.php">
             <small>Next ›</small>
-            4. Basic Touchpoints
+            <small>4. Basic Touchpoints</small>
           </a>
+          <div style="clear:both;"></div>
         </div>
 
         <hr>

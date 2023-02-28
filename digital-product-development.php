@@ -356,12 +356,13 @@
         <div class="inter-page-navigation">
           <a class="previous-page-title" href="basic-touchpoints.php">
             <small>‹ Previous</small>
-            4. Basic Touchpoints
+            <small>4. Basic Touchpoints</small>
           </a>
           <a class="next-page-title" href="bibliography.php">
             <small>Next ›</small>
-            Bibliography
+            <small>Bibliography</small>
           </a>
+          <div style="clear:both;"></div>
         </div>
 
         <hr>
