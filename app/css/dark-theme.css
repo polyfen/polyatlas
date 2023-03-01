@@ -113,3 +113,8 @@ body.dark-theme div#poly-atlas-heading a#github-link:hover, body.dark-theme div#
   color: white !important;
   text-decoration: none;
 }
+
+body#getting-started-container.dark-theme div#sidebar li a#toc-getting-started, body#intro-to-branding-container.dark-theme div#sidebar li a#toc-intro-to-branding, body#business-development-container.dark-theme div#sidebar li a#toc-business-development, body#brand-identity-design-container.dark-theme div#sidebar li a#toc-brand-identity-design, body#brand-strategy-container.dark-theme div#sidebar li a#toc-brand-strategy, body#visual-identity-container.dark-theme div#sidebar li a#toc-visual-identity, body#brand-guidelines-container.dark-theme div#sidebar li a#toc-brand-guidelines, body#basic-touchpoints-container.dark-theme div#sidebar li a#toc-basic-touchpoints, body#digital-product-development-container.dark-theme div#sidebar li a#toc-digital-product-development, body#bibliography-container.dark-theme div#sidebar li a#toc-bibliography, body#colophon-container.dark-theme div#sidebar li a#toc-colophon {
+  color: #fff !important;
+  font-weight: 600;
+}
