@@ -3,6 +3,10 @@
   <h2 style="font-size:2rem;padding:0;">Latest updates</h2>
   <hr style="margin:-15px 0 20px;opacity:0.2;">
   <p style="font-size:1rem;margin-bottom:20px;">
+  <strong style="font-size:1rem;color:black;">1 Mar 2023</strong> | version 01.02.01<br/>
+  Separated the content into different individual pages instead of having a super long one-pager.</p>
+  <hr style="margin:20px 0 20px;opacity:0.2;">
+  <p style="font-size:1rem;margin-bottom:20px;">
   <strong style="font-size:1rem;color:black;">20 Nov 2022</strong> | version 01.01.01<br/>
   Officially published on Github as an open-source repository and added a dark theme.</p>
   <hr style="margin:20px 0 20px;opacity:0.2;">
