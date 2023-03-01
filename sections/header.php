@@ -22,6 +22,4 @@
 
   <a title="Change Theme" id="change-to-light" class="change-theme-button d-none" onclick="document.body.className='light-theme';document.getElementById('change-to-light').className='change-theme-button d-none';document.getElementById('change-to-dark').className='change-theme-button';document.getElementById('header').className='light-theme';"><i class="fa-solid fa-lightbulb"></i></a>
 
-  <a href="javascript:void(0)" onclick="javascript:toggleFullScreen()" class="fullscreen-button" title="Fullscreen"><i class="fas fa-expand-arrows-alt"></i></a>
-
 </header>
