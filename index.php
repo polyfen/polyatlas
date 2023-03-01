@@ -44,7 +44,6 @@
         <hr class="second-separator">
 
         <h2 id="getting-started">Getting Started</h2>
-          <small>Description</small>
           <p>This framework can be a valuable resource for any person with an interest in Branding, whether you are a seasoned creative professional, a rookie design or marketing student, an entrepreneur or business owner, or simply a Branding enthusiast.</p>
           <p>Each section of <strong>this platform breaks down the Branding process into individual goals</strong> along with: (1) a general description of each goal, (2) an account of whom in the Branding team should be appointed to perform each task, (3) a rough estimation of the hours of work allocated to each goal, and (4) further information, resources, and case studies.</p>
           <p>Branding is a multidisciplinary process and hence it's best performed by a team of professionals who specialise on each discipline. However, whether you wish to design Brand Identities for clients as a part of a creative team or as a solo freelancer, following this framework —and, if necessary, adapting it to your specific needs— aims to <strong>(1) provide you with a better understanding of the Branding process,</strong> and <strong>(2) optimising and expediting your workflow,</strong> allowing you to fast-track all the minor administrative tasks and allowing you to focus your efforts on the creative output.</p>
