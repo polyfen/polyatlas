@@ -1,7 +1,16 @@
 /*---------- FOOTER start ------------*/
 
+div.inter-page-navigation {
+  margin: -30px 0 -50px;
+}
+
 div.inter-page-navigation a small {
   border-color: #02BCAA ;
+}
+
+div.inter-page-navigation a small:first-of-type {
+  border-bottom: 0;
+  margin-bottom: -15px;
 }
 
 div.inter-page-navigation a:hover {
