@@ -18,15 +18,15 @@
     <div class="sidebar-separator"></div>
     <nav id="table-of-contents">
       <ul>
-        <li><a href="index.php#top" id="toc-getting-started">Getting Started</a></li>
-        <li><a href="intro-to-branding.php#top" id="toc-intro-to-branding">Intro to Branding</a></li>
+        <li class="top-level-li"><a href="index.php#top" id="toc-getting-started">Getting Started</a></li>
+        <li class="top-level-li"><a href="intro-to-branding.php#top" id="toc-intro-to-branding">Intro to Branding</a></li>
           <ol>
             <li><a href="intro-to-branding.php#what-is-a-brand" id="toc-what-is-a-brand">What is a Brand?</a></li>
             <li><a href="intro-to-branding.php#what-is-branding" id="toc-what-is-branding">What is Branding?</a></li>
             <li><a href="intro-to-branding.php#what-is-a-logo" id="toc-what-is-a-logo">What is a Logo?</a></li>
             <li><a href="intro-to-branding.php#terminology" id="toc-terminology">Terminology</a></li>
           </ol>
-        <li><a href="business-development.php#top" id="toc-business-development">Business Development</a></li>
+        <li class="top-level-li"><a href="business-development.php#top" id="toc-business-development">Business Development</a></li>
         <ol>
         <li><a href="business-development.php#market-research" id="toc-market-research">Market Research</a></li>
           <ol>
@@ -38,7 +38,7 @@
         <li><a href="business-development.php#business-plan" id="toc-business-plan">Business Plan</a></li>
         <li><a href="business-development.php#products-and-services" id="toc-products-and-services">Products &amp; Services</a></li>
         </ol>
-        <li><a href="brand-identity-design.php#top" id="toc-brand-identity-design">Brand Identity Design</a></li>
+        <li class="top-level-li"><a href="brand-identity-design.php#top" id="toc-brand-identity-design">Brand Identity Design</a></li>
           <ol>
             <li><a href="brand-strategy.php#top" id="toc-brand-strategy">Brand Strategy</a></li>
               <ol>
@@ -70,7 +70,7 @@
                 <li><a href="#presentation-slides" id="toc-presentation-slides" >Presentation slides</a></li>
               </ol>
             </ol>
-            <li><a href="digital-product-development.php#top" id="toc-digital-product-development">Digital Product Development</a></li>
+            <li class="top-level-li"><a href="digital-product-development.php#top" id="toc-digital-product-development">Digital Product Development</a></li>
             <ol>
               <li><a href="digital-product-development.php#user-stories" id="toc-user-stories">User stories</a></li>
               <li><a href="digital-product-development.php#user-journey" id="toc-user-journey">User journey</a></li>
@@ -83,15 +83,15 @@
               <li><a href="#testing" id="toc-testing">Usability Testing</a></li>
               <li><a href="#programming" id="toc-programming">Programming</a></li>
             </ol>
-          <li class="future-section" title="under development"><a href="#brand-activation" id="toc-brand-activation">[Brand Activation]</a></li>
-          <li class="future-section" title="under development"><a href="#brand-iteration" id="toc-brand-iteration">[Brand Iteration]</a></li>
-        <li><a href="bibliography.php#top" id="toc-bibliography">Bibliography</a></li>
+          <li class="future-section top-level-li" title="under development"><a href="#brand-activation" id="toc-brand-activation">[Brand Activation]</a></li>
+          <li class="future-section top-level-li" title="under development"><a href="#brand-iteration" id="toc-brand-iteration">[Brand Iteration]</a></li>
+        <li class="top-level-li"><a href="bibliography.php#top" id="toc-bibliography">Bibliography</a></li>
         <ol>
           <li><a href="bibliography.php#books" id="toc-books">Books</a></li>
           <li><a href="bibliography.php#blogs-and-sources" id="toc-blogs-and-sources">Blog &amp; Sources</a></li>
           <li><a href="bibliography.php#tools-and-resources" id="toc-tools-and-resources">Tools &amp; Resources</a></li>
         </ol>
-        <li><a href="colophon.php#top" id="toc-colophon">Colophon</a></li>
+        <li class="top-level-li"><a href="colophon.php#top" id="toc-colophon">Colophon</a></li>
       </ul>
     </nav>
   </div>
