@@ -44,7 +44,6 @@
         <hr class="second-separator">
     
         <h3 id="books">Books</h3>
-        <hr class="third-separator">
           <ul>
             <li><a href="https://www.goodreads.com/book/show/7108725-start-with-why" target="_blank">Start with Why</a> <i style="opacity:0.5;color:inherit;">by Simon Sinek</i></li>
             <li><a href="https://www.goodreads.com/book/show/38390751-the-infinite-game" target="_blank">The Infinite Game</a> <i style="opacity:0.5;color:inherit;">by Simon Sinek</i></li>
@@ -94,7 +93,6 @@
           <hr class="second-separator">
 
           <h3 id="blogs-and-sources">Blogs &amp; Sources</h3>
-          <hr class="third-separator">
           <ul>
             <li><a href="https://www.typewolf.com" target="_blank">Typewolf</a></li>
             <li><a href="http://www.thisismirador.com/" target="_blank">Mirador</a></li>
@@ -128,7 +126,6 @@
 
 
           <h3 id="tools-and-resources">Tools &amp; Resources</h3>
-          <hr class="third-separator">
           <ul>
             <li><a href="https://asana.com/" target="_blank">Asana</a></li>
             <li><a href="https://trello.com/" target="_blank">Trello</a></li>
