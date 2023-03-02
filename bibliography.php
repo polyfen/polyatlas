@@ -39,11 +39,11 @@
         <hr class="second-separator first-separator">
         
 
-        <h2 id="bibliography">Bibliography</h2>
+        <h1 id="bibliography">Bibliography</h1>
         <p>A collection of educational resources and practical resources related to the Branding process and all its individual areas.</p>
         <hr class="second-separator">
     
-        <h3 id="books">Books</h3>
+        <h2 id="books">Books</h2>
           <ul>
             <li><a href="https://www.goodreads.com/book/show/7108725-start-with-why" target="_blank">Start with Why</a> <i style="opacity:0.5;color:inherit;">by Simon Sinek</i></li>
             <li><a href="https://www.goodreads.com/book/show/38390751-the-infinite-game" target="_blank">The Infinite Game</a> <i style="opacity:0.5;color:inherit;">by Simon Sinek</i></li>
@@ -92,7 +92,7 @@
 
           <hr class="second-separator">
 
-          <h3 id="blogs-and-sources">Blogs &amp; Sources</h3>
+          <h2 id="blogs-and-sources">Blogs &amp; Sources</h2>
           <ul>
             <li><a href="https://www.typewolf.com" target="_blank">Typewolf</a></li>
             <li><a href="http://www.thisismirador.com/" target="_blank">Mirador</a></li>
@@ -125,7 +125,7 @@
           <hr class="second-separator">
 
 
-          <h3 id="tools-and-resources">Tools &amp; Resources</h3>
+          <h2 id="tools-and-resources">Tools &amp; Resources</h2>
           <ul>
             <li><a href="https://asana.com/" target="_blank">Asana</a></li>
             <li><a href="https://trello.com/" target="_blank">Trello</a></li>
