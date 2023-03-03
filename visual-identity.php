@@ -188,7 +188,7 @@
         <p>Support colours can be used for backgrounds, illustrations, buttons, and other secondary elements. Like DHL's yellow, Spotify's dark grey, Twitter's dark blue, or UPS' beige.</p>
         <img src="imgs/support-colours.jpg">
         <hr class="second-separator">
-        <h3 id="visual-language">2.5. Visual Language</h3>
+        <h2 id="visual-language">2.5. Visual Language</h2>
         <small>Task</small>
         <h4>Decide which backgrounds you're going to have</h4>
         <small>Role</small>

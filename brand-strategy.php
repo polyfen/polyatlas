@@ -108,7 +108,7 @@
         </blockquote>
         <img src="imgs/IMG_TPG_Brand-Personality.jpg">
         <hr class="second-separator">
-        <h3 id="keywords">1.3. Keywords</h3>
+        <h2 id="keywords">1.3. Keywords</h2>
         <small>Task</small>
         <h4>List the brand's Keywords</h4>
         <small>Role</small>

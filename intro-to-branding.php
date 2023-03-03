@@ -70,22 +70,22 @@
           <p>The Branding process is <strong>not necessarily a conscious effort</strong> to actively design an appealing image for a business. Whenever a potential customer is talking to a sales person, for instance, the business is undergoing a Branding process.</p>
           <p>The same can be said about any other situation where a person is exposed to information that would shape the way they think and feel about a business. If you hear on the local news that your favourite restaurant is under investigation for poor hygienic conditions, that restaurant won't be your first choice the next time you're planning to go out for dinner. That, is Branding. Even if the restaurant was really in excellent conditions, associating that business with a negative experience will affect the way you feel about their Brand.</p>
           <p>The Branding process of a commercial Brand typically revolves around the following stages:</p>
-          <h5>1. Business Development</h5>
+          <h3>1. Business Development</h3>
             <div class="indent">
               <img src="imgs/business-development.jpg">
               <p>Conforming a business usually comprehends performing a market research, writing a business plan, and developing the Business Touchpoints (services and products).</p>
             </div>
-          <h5>2. Brand Identity Design</h5>
+          <h3>2. Brand Identity Design</h3>
             <div class="indent">
               <img src="imgs/brand-identity-design.jpg">
               <p>Choosing a name for the Brand, defining a direction for the look-and-feel, designing a logo and a Visual Identity, and the basic Brand Identity Touchpoints (Email signature, Business cards, Letterhead, Presentation slides template, Parking page, Social media profiles).</p>
             </div>
-          <h5>3. Brand Activation</h5>
+          <h3>3. Brand Activation</h3>
             <div class="indent">
               <img src="imgs/brand-activation.jpg">
               <p>Launching the business with an offer of services and/or products, and <strong>reaching out to the target public</strong> through Promotional Touchpoints, which typically includes establishing an online presence (website and social media profiles) and advertising the brand through different promotional channels (online ads, print ads, merch, sponsoring events, networking, etc.).</p>
             </div>
-          <h5>4. Brand Iteration</h5>
+          <h3>4. Brand Iteration</h3>
             <div class="indent">
               <img src="imgs/brand-iteration.jpg">
               <p><strong>Measuring</strong> and analysing the Brand Perception (how the audience perceives the brand). This can be done with different marketing research techniques including surveys and interviews, web analytics, user testing, focus groups, and even auditing the financial results of the business.</p>
