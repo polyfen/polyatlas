@@ -62,12 +62,12 @@
             <li><a href="brand-guidelines.php#top" id="toc-brand-guidelines">Brand Guidelines</a></li>
             <li><a href="basic-touchpoints.php#top" id="toc-basic-touchpoints">Basic Touchpoints</a></li>
               <ol>
-                <li><a href="#social-media" id="toc-social-media">Social media</a></li>
-                <li><a href="#parking-page" id="toc-parking-page">Parking page</a></li>
-                <li><a href="#email-signature" id="toc-email-signature">Email signature</a></li>
-                <li><a href="#business-cards" id="toc-business-cards">Business cards</a></li>
-                <li><a href="#letterhead" id="toc-letterhead">Letterhead</a></li>
-                <li><a href="#presentation-slides" id="toc-presentation-slides" >Presentation slides</a></li>
+                <li><a href="basic-touchpoints.php#social-media" id="toc-social-media">Social media</a></li>
+                <li><a href="basic-touchpoints.php#parking-page" id="toc-parking-page">Parking page</a></li>
+                <li><a href="basic-touchpoints.php#email-signature" id="toc-email-signature">Email signature</a></li>
+                <li><a href="basic-touchpoints.php#business-cards" id="toc-business-cards">Business cards</a></li>
+                <li><a href="basic-touchpoints.php#letterhead" id="toc-letterhead">Letterhead</a></li>
+                <li><a href="basic-touchpoints.php#presentation-slides" id="toc-presentation-slides" >Presentation slides</a></li>
               </ol>
             </ol>
             <li class="top-level-li"><a href="digital-product-development.php#top" id="toc-digital-product-development">Digital Product Development</a></li>
@@ -76,12 +76,12 @@
               <li><a href="digital-product-development.php#user-journey" id="toc-user-journey">User journey</a></li>
               <li><a href="digital-product-development.php#user-flow" id="toc-user-flow">User flow</a></li>
               <li><a href="digital-product-development.php#information-architecture" id="toc-information-architecture">Information architecture</a></li>
-              <li><a href="#content-creation" id="toc-content-creation">Content creation</a></li>
-              <li><a href="#wireframing" id="toc-wireframing">Wireframing</a></li>
-              <li><a href="#design-comps" id="toc-design-comps">Design comps</a></li>
-              <li><a href="#prototyping" id="toc-prototyping">Prototyping</a></li>
-              <li><a href="#testing" id="toc-testing">Usability Testing</a></li>
-              <li><a href="#programming" id="toc-programming">Programming</a></li>
+              <li><a href="digital-product-development.php#content-creation" id="toc-content-creation">Content creation</a></li>
+              <li><a href="digital-product-development.php#wireframing" id="toc-wireframing">Wireframing</a></li>
+              <li><a href="digital-product-development.php#design-comps" id="toc-design-comps">Design comps</a></li>
+              <li><a href="digital-product-development.php#prototyping" id="toc-prototyping">Prototyping</a></li>
+              <li><a href="digital-product-development.php#testing" id="toc-testing">Usability Testing</a></li>
+              <li><a href="digital-product-development.php#programming" id="toc-programming">Programming</a></li>
             </ol>
           <li class="future-section top-level-li" title="under development"><a href="#brand-activation" id="toc-brand-activation">[Brand Activation]</a></li>
           <li class="future-section top-level-li" title="under development"><a href="#brand-iteration" id="toc-brand-iteration">[Brand Iteration]</a></li>
