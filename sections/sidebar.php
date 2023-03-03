@@ -60,7 +60,7 @@
                 <li><a href="visual-identity.php#visual-language" id="toc-visual-language">Visual language</a></li>
               </ol>
             <li><a href="brand-guidelines.php#top" id="toc-brand-guidelines">Brand Guidelines</a></li>
-            <li><a href="#basic-touchpoints" id="toc-basic-touchpoints">Basic Touchpoints</a></li>
+            <li><a href="basic-touchpoints.php#top" id="toc-basic-touchpoints">Basic Touchpoints</a></li>
               <ol>
                 <li><a href="#social-media" id="toc-social-media">Social media</a></li>
                 <li><a href="#parking-page" id="toc-parking-page">Parking page</a></li>
