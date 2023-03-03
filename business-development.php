@@ -260,10 +260,14 @@
         <small>The Poly Group</small>
         <blockquote>Our business model is a compelling take against our competition and has the potential to become a leader of the creative industry through attracting, engaging, and delighting our target public.</blockquote>
 
+        <hr class="second-separator">
+
         <h2 id="business-plan">2. Business Plan</h2>
         <small>The Poly Group</small>
         <img src="imgs/business-plan.jpg">
         <p>You can browse the Business Plan we did for our business at <a href="http://thepolygroup.co/business-plan" target="_blank">thepolygroup.co/business-plan</a></p>
+
+        <hr class="second-separator">
 
         <h2 id="products-and-services">3. Products &amp; Services</h2>
         <p>Define what would be the best quality Product or Service that your business can offer to its customers; Then reverse engineer what would be the process for developing those Products or Services; Lastly, write down the workflow guidelines for your team-members to follow.</p>
