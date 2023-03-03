@@ -38,7 +38,7 @@
         </div>
         <hr class="second-separator first-separator">
         
-        <h2 id="brand-identity-design">Brand Identity Design</h2>
+        <h1 id="brand-identity-design">Brand Identity Design</h1>
         <img src="imgs/brand-identity-design-chart.jpg">
         <p>The goal of a Brand Identity Design project is to <strong>translate the Business Strategy into a distinctive trademark</strong> which reflects the business goals and aspirations while appealing to the target public.</p>
         <img src="imgs/business-value.jpg">

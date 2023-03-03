@@ -38,10 +38,10 @@
         </div>
         <hr class="second-separator first-separator">
         
-        <h2 id="intro-to-branding">An Introduction to Branding</h2>
+        <h1 id="intro-to-branding">An Introduction to Branding</h1>
         <p>Before jumping into the Brand Identity Design process, we must first ensure a common understanding of what a Brand is and how Branding works.</p>
         <hr class="second-separator">
-          <h3 id="what-is-a-brand">What is a Brand?</h3>
+          <h2 id="what-is-a-brand">What is a Brand?</h2>
           <img src="imgs/brand-chart.jpg">
           <p><strong>A Brand is a collective representation of an Entity.</strong> How people feel about something the interact with; What is that something; And, how is that something different from all other related things.</p>
           <img src="imgs/brand-diagram.jpg">
@@ -62,7 +62,7 @@
           <p><strong>A Brand is constantly evolving</strong> with each Interaction between the business, the public, and the cultural environment. For instance, people change the way they feel about a certain product once they have tried it and not liked it; However, they are also likely to change the way they perceive a Brand even if they haven't tried the product, but have heard that most people dislike it.</p>
           <p>Or imagine, if you will, walking past a bakery and being attracted by the sweet smell of freshly baked artisanal pastries. Even smell can interact with the public and communicate the value of a Brand.</p>
         <hr class="third-separator">
-        <h3 id="what-is-branding">What is Branding?</h3>
+        <h2 id="what-is-branding">What is Branding?</h2>
           <img src="imgs/branding-chart.jpg">
           <p>Branding is the process of developing a Brand. In other words, <strong>it's the process of associating certain feelings and emotions with a business.</strong></p>
           <p>Branding is <strong>multisensory</strong> (this means that it can be prompted by something we see, hear, touch, smell, or taste), <strong>multidisciplinary</strong> (professionals from different disciplines are involved), <strong>continuous</strong> (it never stops), and <strong>collective</strong> (includes every member of the public).</p>
@@ -92,7 +92,7 @@
               <p>Fine-tuning the Business Development, Brand Identity Design, and Brand Activation, <strong>improving</strong> upon existing Touchpoints and developing new ones.</p>
             </div>
         <hr class="third-separator">
-          <h3 id="what-is-a-logo">3. What is a Logo?</h3>
+          <h2 id="what-is-a-logo">3. What is a Logo?</h2>
           <p>A <strong>Logo</strong> is a visual representation of the Brand Identity’s essence.</p>
           <p>A Logo could be classified as an Ideogram, Wordmark, Emblem, or Signature.</p>
           <img src="imgs/ideograms.jpg">
@@ -108,7 +108,7 @@
           <p>A Logo is a powerful visual sign that has the power to express ideas that people love or hate. But, a Logo is not a Brand, it’s a minuscule portion of the Visual Identity system that makes up a small part of a Brand.</p>
           <p>Apart from Logos, there are other <strong>Trademarks</strong> which act as <strong>distinctive identifying traits</strong> of a Brand. These could include the Brand Name, Slogan, Logo, and Package Design amongst others.</p>
         <hr class="third-separator">
-          <h3 id="terminology">4. Terminology</h3>
+          <h2 id="terminology">4. Terminology</h2>
           <p>You may find that different sources and authors use a different terminology for some key concepts related to Branding. Here are some examples and the "why" we prefer to use some words over others.</p>
           <p><strong>Branding vs. Brand Identity Design:</strong> We believe that "Branding" includes every interaction between a business, its public, and its cultural context; While "Brand Identity Design" is only a small portion of the larger Branding process. For instance, if a person walks into a shop and talks to the sales-person, that is part of the Branding process, since it's directly connected to how that person feels about that Brand; However, Brand Identity Design is a conscious effort on behalf of the business to have an appealing image.</p>
           <p><strong>Corporate Identity vs. Brand Identity:</strong> "Corporate Identity" is a term often used when referring to the Branding process. However, Brands are not only for corporations; Brand Identities can for instance represent an individual person, a small business, a non-profit organisation, a social movement, or a religious or educational institution.</p>

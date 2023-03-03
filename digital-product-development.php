@@ -40,13 +40,13 @@
         
 
       
-        <h2 id="digital-product-development">5. Digital Product Development</h2>
+        <h1 id="digital-product-development">5. Digital Product Development</h1>
         <p>Wether you're planning to develop a simple institutional website, an e-commerce or blog, a web app, or a mobile app, the User Experience Design process is essentially the same.</p>
         <small>The Poly Group</small>
         <img src="imgs/ux-documentation.jpg">
         <p>For reference, you can browse the UX documentation we did for Polyfen's website at <a href="http://polyfen.com/ux" target="_blank">polyfen.com/ux</a>.</p>
         <hr class="second-separator">
-        <h3 id="user-stories">5.1. User Stories</h3>
+        <h2 id="user-stories">5.1. User Stories</h2>
         <small>Task</small>
         <h4>List the User Stories</h4>
         <small>Role</small>
@@ -87,7 +87,7 @@
           </tody>
         </table>
         <hr class="second-separator">
-        <h3 id="user-journey">5.2. User Journey</h3>
+        <h2 id="user-journey">5.2. User Journey</h2>
         <small>Task</small>
         <h4>List the User Journey steps</h4>
         <small>Role</small>
@@ -106,7 +106,7 @@
         <strong>3. Conversion</strong><br/>
         The Primary personas should be enticed by our services and fill in our contact form to request a quote for a Branding project.</blockquote>
         <hr class="second-separator">
-        <h3 id="user-flow">5.3. User Flow</h3>
+        <h2 id="user-flow">5.3. User Flow</h2>
         <small>Task</small>
         <h4>Chart the User Flow</h4>
         <small>Role</small>
@@ -120,7 +120,7 @@
         <img src="imgs/user-flow.jpg">
         <p>You could easily design your User Flows from scratch, or, if you wanna save some time, you can download User Flow template files such as this paid one <a href="https://ui8.net/neeple/products/wheres-your-flow" target="_blank">ui8.net</a> or some other free alternative.
         <hr class="second-separator">
-        <h3 id="information-architecture">5.4. Information Architecture</h3>
+        <h2 id="information-architecture">5.4. Information Architecture</h2>
         <small>Task</small>
         <h4>Diagram the Information Architecture</h4>
         <small>Role</small>
@@ -134,7 +134,7 @@
         <small>The Poly Group</small>
         <img src="imgs/information-architecture.jpg">
         <hr class="second-separator">
-        <h3 id="content-creation">5.5. Content Creation</h3>
+        <h2 id="content-creation">5.5. Content Creation</h2>
         <small>Task</small>
         <h4>Copywrite the Content</h4>
         <small>Role</small>
@@ -156,7 +156,7 @@
         <img src="imgs/content-creation.jpg">
         <p>You can browse the Content Creation document for Polyfen's homepage here: <a href="https://docs.google.com/document/d/1hUwJAaiQR8_tRy5uDBGUPloiV7cBjBkoI8bZ_z9IY2c/edit?usp=sharing" target="_blank">DOC_PLFN_Copy_Homepage</a></p>
         <hr class="second-separator">
-        <h3 id="wireframing">5.6. Wireframing</h3>
+        <h2 id="wireframing">5.6. Wireframing</h2>
         <small>Task</small>
         <h4>Hand-draw Wireframes</h4>
         <small>Role</small>
@@ -198,7 +198,7 @@
         <p>I suggest you minimise your workload by using some kind of Wireframe components templates. There are some free templates online, or you can find paid Wireframe Kit templates at websites such as <a href="https://ui8.net/category/wireframe-kits" target="_blank">ui8.net</a>.</p>
         <p>Alternatively, there are also digital platforms which specialise on Wireframing, such as <a href="https://balsamiq.com/" target="_blank">Balsamiq.com</a>.</p>
         <hr class="second-separator">
-        <h3 id="design-comps">5.7. Design Comps</h3>
+        <h2 id="design-comps">5.7. Design Comps</h2>
         <small>Task</small>
         <h4>Design a Styleguide</h4>
         <small>Role</small>
@@ -223,7 +223,7 @@
         <small>The Poly Group</small>
         <img src="imgs/design-comps.jpg">
         <hr class="second-separator">
-        <h3 id="prototyping">5.8. Prototyping</h3>
+        <h2 id="prototyping">5.8. Prototyping</h2>
         <small>Task</small>
         <h4>Prototype the User Interface</h4>
         <small>Role</small>
@@ -234,7 +234,7 @@
         <p>Prototyping allows you add some basic interactivity to your static UI Designs and put them to a test and see if there are any pain-points that should be solved. Additionally, it helps the programmers understand how you want your UI to interact with the user.</p>
         <p>Some design tools, like Figma, have built-in Prototyping features. Alternatively, you can use a custom Prototyping tool such as <a href="http://invision.com" target="_blank">InVision</a> or <a href="https://marvelapp.com/" target="_blank">Marvel</a>.</p>
         <hr class="second-separator">
-        <h3 id="testing">5.9. Usability Testing</h3>
+        <h2 id="testing">5.9. Usability Testing</h2>
         <small>Task</small>
         <h4>Choose a Usability Testing Method</h4>
         <small>Role</small>
@@ -316,7 +316,7 @@
         <small>Description</small>
         <p>Based on your Insights, fine-tune your UI Designs as needed.</p>
         <hr class="second-separator">
-        <h3 id="programming">5.10. Programming</h3>
+        <h2 id="programming">5.10. Programming</h2>
         <small>Task</small>
         <h4>Hand-off your Designs to the Programmers</h4>
         <small>Role</small>

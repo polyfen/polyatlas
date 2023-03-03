@@ -39,7 +39,7 @@
         <hr class="second-separator first-separator">
         
 
-        <h2 id="brand-guidelines">3. Brand Guidelines</h2>
+        <h1 id="brand-guidelines">3. Brand Guidelines</h1>
         <small>Task</small>
         <h4>Develop Brand Guidelines</h4>
         <small>Role</small>

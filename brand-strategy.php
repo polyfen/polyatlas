@@ -38,13 +38,13 @@
         </div>
         <hr class="second-separator first-separator">
         
-        <h2 id="brand-strategy">1. Brand Strategy</h2>
+        <h1 id="brand-strategy">1. Brand Strategy</h1>
         <p>Based on the information gathered from the Market Research, the Brand Strategy aims to define what’s the best possible way for the business to communicate its most appealing features to the target public and stand out over the competition.</p>
         <small>The Poly Group</small>
         <img src="imgs/brand-strategy.jpg">
         <p>You can browse our Brand Strategy document at <a href="http://thepolygroup.co/strategy" target="_blank">thepolygroup.co/strategy</a>.</p>
         <hr class="second-separator">
-        <h3 id="voice">1.1. Voice</h3>
+        <h2 id="voice">1.1. Voice</h2>
         <small>Task</small>
         <h4>Define the brand's Voice</h4>
         <small>Role</small>
@@ -75,7 +75,7 @@
         <small>The Poly Group</small>
         <blockquote>Our parent brand has a <strong>quiet voice</strong> and let’s the sub-brands do all the speaking. For instance, TPG’s Twitter account should be focused on Retweeting all posts by its subsidiary brands.</blockquote>
         <hr class="second-separator">
-        <h3 id="tone">1.2. Tone</h3>
+        <h2 id="tone">1.2. Tone</h2>
         <small>Task</small>
         <h4>Define the brand's Tone</h4>
         <small>Role</small>
@@ -137,7 +137,7 @@
         </ul>
         </div>
         <hr class="second-separator">
-        <h3 id="creative-concept">1.4. Creative concept</h3>
+        <h2 id="creative-concept">1.4. Creative concept</h2>
         <small>Task</small>
         <h4>Brainstorm Creative Concept alternatives</h4>
         <small>Role</small>
@@ -162,7 +162,7 @@
         <small>The Poly Group</small>
         <blockquote>Re-thinking Branding for the Internet Age</blockquote>
         <hr class="second-separator">
-        <h3 id="moodboard">1.5. Moodboard</h3>
+        <h2 id="moodboard">1.5. Moodboard</h2>
         <small>Task</small>
         <h4>Collect images for Moodboard</h4>
         <small>Role</small>
@@ -194,7 +194,7 @@
         <img src="imgs/moodboard-template.jpg">
         <p><strong>Download ›</strong> <a href="downloads/IMG_PLAT_Moodboard-Template.ai" target="_blank">IMG_PLAT_Moodboard-Template.ai</a></p>
         <hr class="second-separator">
-        <h3 id="naming">1.6. Naming</h3>
+        <h2 id="naming">1.6. Naming</h2>
         <small>Task</small>
         <h4>Brainstorm potential brand names</h4>
         <small>Role</small>
@@ -326,7 +326,7 @@
         <strong>Judicial Business Name:</strong> The Poly Group Co LLC</br></br>
         <strong>Diminutive Name:</strong> Poly</blockquote>
         <hr class="second-separator">
-        <h3 id="brand-architecture">1.7. Brand architecture</h3>
+        <h2 id="brand-architecture">1.7. Brand architecture</h2>
         <small>Task</small>
         <h4>Define the amount of brand identities corresponding to the business</h4>
         <small>Role</small>

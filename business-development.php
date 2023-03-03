@@ -38,7 +38,7 @@
         </div>
         <hr class="second-separator first-separator">
         
-        <h2 id="business-development">Business Development</h2>
+        <h1 id="business-development">Business Development</h1>
         <p>So you've decided to start a business. Odds are you're getting yourself into something much bigger and difficult that you might have first imagined. However, don't beat yourself down. The solution to facing the herculean task of starting a business is research, planning, executing, and continuously optimising step-by-step. The good thing, is that we've got you covered! Following this framework can be a helpful tool to guiding you through the process of business development.</p>
 
         <hr class="second-separator">

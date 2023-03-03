@@ -39,10 +39,10 @@
         <hr class="second-separator first-separator">
         
 
-        <h2 id="basic-touchpoints">4. Basic Touchpoints</h2>
+        <h1 id="basic-touchpoints">4. Basic Touchpoints</h1>
         <p>This comprehends all the basic applications of the Brand Identity including social media profiles, parking page, email signature, business cards, letterhead, and presentation slides.</p>
         <hr class="second-separator">
-        <h3 id="social-media">4.1. Social Media</h3>
+        <h2 id="social-media">4.1. Social Media</h2>
         <small>Task</small>
         <h4>Design profile picture</h4>
         <small>Role</small>
@@ -98,12 +98,12 @@
           </ul>
         </ul>
         <hr class="second-separator">
-        <h3 id="parking-page">4.2. Parking Page</h3>
+        <h2 id="parking-page">4.2. Parking Page</h2>
         <p>A "Parking Page" is a webpage which tells the users that your website is under construction and will be coming soon.</p>
         <p>Parking Pages are especially useful for long-term web projects which might take a long time to go public.</p>
         <p>A Parking Page shouldn't just say "Coming Soon", but it should also include ways to get in touch with the business, wether by including links to the social media profiles or also by adding an email address.</p>
         <hr class="second-separator">
-        <h3 id="email-signature">4.3. Email Signature</h3>
+        <h2 id="email-signature">4.3. Email Signature</h2>
         <p>An email signature should be concise, unintrusive, mobile-friendly, and include only relevant information. Particularly, the design of the email signature should not distract the reader from the content of the actual email.</p>
         <p>Here are some things to look our for:</p>
         <ul>
@@ -112,7 +112,7 @@
           <li>For the love of God, don't write your email address on your email signature. The recipient knows which email address is the sender.</li>
         </ul>
         <hr class="second-separator">
-        <h3 id="business-cards">4.4. Business Cards</h3>
+        <h2 id="business-cards">4.4. Business Cards</h2>
         <p>Business Cards are a key element of networking and giving a professional impression to prospective clients, partners, service providers, and strategic alliances.</p>
         <p>Different formats of Business Cards are acceptable; However, be sure to design a canvas that has a maximum of 90mm&thinsp;×&thinsp;55mm so they fit comfortably in a standard wallet.</p>
         <p>Furthermore, if you're printing Business Cards, you should probably set a bleed margin to ensure the Cards are cut properly.</p>
@@ -123,11 +123,11 @@
           <li>File Format: PDF</li>
         </ul>
         <hr class="second-separator">
-        <h3 id="letterhead">4.5. Letterhead</h3>
+        <h2 id="letterhead">4.5. Letterhead</h2>
         <p>The Letterhead template as well as the Presentation Slides template might vary depending on the software used for text editing and presentation making. Some tools like Microsoft Office or Apple's Pages and Keynote may offer a more customisable platform; However, for the purposes of this framework we will be focusing on Google Suite which offer less customisation but are free to use and have better collaborative features. However, consider that Google Docs, Slides, and Sheets allow only the use of Google Fonts, no custom fonts; Hence, this would be the appropriate place to use the Secondary Typeface Selection.</p>
         <p>There are two types of Letterhead templates. First is a Letterhead template for the cover page of documents and possibly for Invoices; This should feature the Brand's logo prominently as well as contact information. Secondly, there should be an alternative design, more subtle for the pages within the document.</p>
         <hr class="second-separator">
-        <h3 id="presentation-slides">4.6. Presentation slides</h3>
+        <h2 id="presentation-slides">4.6. Presentation slides</h2>
         <p>Presentation slide formats can follow different formats. The minimum slides format variations are (1) the opening slide, (2) the content slides, and (3) the closing slide.</p>
 
 

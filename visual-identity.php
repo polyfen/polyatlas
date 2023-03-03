@@ -38,10 +38,10 @@
         </div>
         <hr class="second-separator first-separator">
         
-        <h2 id="visual-identity">2. Visual Identity</h2>
+        <h1 id="visual-identity">2. Visual Identity</h1>
         <p>The Visual Identity includes all the graphic Trademarks of the Brand, such as the Logo System, Typeface Selection, Colour Scheme, and Visual Language.</p>
         <hr class="second-separator">
-        <h3 id="visual-exploration">2.1. Visual Exploration</h3>
+        <h2 id="visual-exploration">2.1. Visual Exploration</h2>
         <p>The Visual Exploration and Discovery is the cornerstone of the Visual Identity and probably one of the hardest stages of the Brand Identity Design process.</p>
         <p>This stage involves multiple iterations and a back-and-forth with incorporating the client's feedback.</p>
         <small>Task</small>
@@ -87,7 +87,7 @@
         <p>You can also test the different directions of the Visual Exploration on mockups.</p>
         <p>The final goal of the Visual Exploration is to narrow down the single, most suitable direction for the Logo System, Typeface Selection, and Colour Scheme.</p>
         <hr class="second-separator">
-        <h3 id="logo-system">2.2. Logo System</h3>
+        <h2 id="logo-system">2.2. Logo System</h2>
         <small>Task</small>
         <h4>Grid and fine-tune the selected Ideogram</h4>
         <small>Role</small>
@@ -108,7 +108,7 @@
         <p>The colour variations of the Logo System would include each type of Logo in Monochrome (only 1 colour) in positive (for instance, in black for use over light backgrounds) and negative (for instance, on white for use over dark backgrounds), and in Full-colour.</p>
         <p>The composition variations could include a version of the Emblem which (1) displays the Ideogram on vertically top of the Wordmark, or (2) displays the Ideogram horizontally to the left of the Ideogram.</p>
         <hr class="second-separator">
-        <h3 id="typeface-selection">2.3. Typeface Selection</h3>
+        <h2 id="typeface-selection">2.3. Typeface Selection</h2>
         <small>Task</small>
         <h4>Select a typeface for headings</h4>
         <small>Role</small>
@@ -165,7 +165,7 @@
         </div>
         <p>Overall, Verdana is generally the most suitable tertiary typeface.</p>
         <hr class="second-separator">
-        <h3 id="colour-scheme">2.4. Colour Scheme</h3>
+        <h2 id="colour-scheme">2.4. Colour Scheme</h2>
         <small>Task</small>
         <h4>Choose an accent colour</h4>
         <small>Role</small>
