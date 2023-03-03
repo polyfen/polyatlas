@@ -31,7 +31,7 @@ div#sidebar-wrapper {
 }
 
 div#sidebar-wrapper.open-sidebar {
-  width: 320px;
+  width: 300px;
   box-shadow: 0 0 10px #0000002b;
 }
 
@@ -53,11 +53,12 @@ div#sidebar {
     }
 
     div#sidebar ul {
-      list-style: inside;
+      list-style: disc;
+      margin-left: 8px;
     }
 
     div#sidebar ul li.top-level-li a {
-      margin-left: -12px;
+      margin-left: -6px;
     }
 
     div#sidebar ul ol {
@@ -106,7 +107,7 @@ div#sidebar-title {
   padding: 35px 0px 24px 50px;
   color: #F4666688;
   letter-spacing: 0.7px;
-  width: 320px;
+  width: 300px;
 }
 
 div#sidebar-title a {
