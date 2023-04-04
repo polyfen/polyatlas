@@ -14,7 +14,7 @@
     <meta property="og:url" content="https://polyatlas.wiki"/>
     <meta name="keywords" content="Branding, Brand Identity Design, Graphic Design, Brand Research, Brand Strategy, Guide, Wiki, Framework, Workflow, Creative, Marketing, Education, Open source, Creative commons" />
     <meta name="description" property="og:description" content="A guide to brand identity design projects. Our standardised workflow features a step-by-step approach to the brand identity design process, including tips and best practices, template files, and other resources." />
-    <meta property="og:image" content="https://polyatlas.wiki/imgs/meta-thumbnail.png"/>
+    <meta property="og:image" content="https://polyatlas.wiki/imgs/meta-thumbnail.webp"/>
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta property="fb:app_id" content="1799272553516195" />
@@ -23,7 +23,7 @@
     <meta name="twitter:creator" content="@Poly_Atlas">
     <meta name="twitter:title" content="Poly Atlas" />
     <meta name="twitter:description" content="A guide to brand identity design projects. Our standardised workflow features a step-by-step approach to the brand identity design process, including tips and best practices, template files, and other resources." />
-    <meta name="twitter:image" content="https://polyatlas.wiki/imgs/meta-thumbnail.png" />
+    <meta name="twitter:image" content="https://polyatlas.wiki/imgs/meta-thumbnail.webp" />
     <meta name="robots" content="index, follow">
     <!-- PAGE-SPECIFIC META end -->
 

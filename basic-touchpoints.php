@@ -69,7 +69,7 @@
         <p>Use the Brand's Visual Language or Photography (preferably without text) to create an appealing cover image.</p>
         <p>Mind that the cover image resolution will be cropped differently depending on your screen resolution. For instance, the recommended dimensions for Facebook covers are 820px&thinsp;×&thinsp;360px; However, the image is displayed at 823px&thinsp;×&thinsp;312px on Desktop and at approximately 515px&thinsp;×&thinsp;260px on Mobile, depending on the screen size. So the Safety Area is actually 670px&thinsp;×&thinsp;210px.</p>
         <p>If you don't want your cover image to crop out any important information, then consider the safety area that's visualised both on Desktop and Mobile devices.</p>
-        <img src="imgs/facebook-cover.jpg">
+        <img src="imgs/facebook-cover.webp">
         <small>Deliverables</small>
         <ul>
           <li>Facebook</li>

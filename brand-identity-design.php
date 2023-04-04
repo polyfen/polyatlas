@@ -39,9 +39,9 @@
         <hr class="second-separator first-separator">
         
         <h1 id="brand-identity-design">Brand Identity Design</h1>
-        <img src="imgs/brand-identity-design-chart.jpg">
+        <img src="imgs/brand-identity-design-chart.webp">
         <p>The goal of a Brand Identity Design project is to <strong>translate the Business Strategy into a distinctive trademark</strong> which reflects the business goals and aspirations while appealing to the target public.</p>
-        <img src="imgs/business-value.jpg">
+        <img src="imgs/business-value.webp">
         <p>The Business Development process aims to increase the value of the business' products and services, while the aim of the Brand Identity Design is to <strong>reflect the Quality Value and increase the Perceived Value</strong> in order to attract potential customers.</p>
 
         <hr>
