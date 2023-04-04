@@ -52,7 +52,7 @@
         <p>1&thinsp;&ndash;&thinsp;2.5 hours</p>
         <small>Description</small>
         <p>The best way to start is by setting the visual tone for the Brand with the right typeface for the logo.</p>
-        <img src="imgs/typefaces.jpg">
+        <img loading="lazy" src="imgs/typefaces.webp">
         <p>Decide how you would place the Brand in a range from more <strong>organic, humanistic, hand-written</strong> to more <strong>modern, digital, mechanical.</strong> If a Brand leans towards a more organic feel, a humanistic typeface with a penmanship look-and-feel would be more suitable, perhaps a serif typeface or a sans-serif with high contrast between thick and thin strokes. On the other hand, if your Brand leans towards a more modern, digital tone, then perhaps a more angular typeface would be in order, like a geometric sans-serif or a contemporary, stylised serif typeface would be suitable.</p>
         <p>Keep in mind that some typefaces are free; However, in order to set a premium tone for the look-and-feel of the Brand Identity, it would be advisable to purchase a paid typeface license. This is a good time to discuss with the client their budget and find a typeface accordingly.</p>
         <p>Browse font distributors and foundries and list potential typefaces suitable for the Brand's Wordmark.</p>
@@ -174,7 +174,7 @@
         <p>0.5&thinsp;&ndash;&thinsp;1 hours</p>
         <small>Description</small>
         <p>Some Brands may choose to go with a monochrome black and white colour scheme. However, to create more contrast on the Brand Touchpoints such as the buttons on the business' website, it's suggested to pick an accent colour.</p>
-        <img src="imgs/accent-colours.jpg">
+        <img loading="lazy" src="imgs/accent-colours.webp">
         <p>The accent colour should be <strong>distinctive</strong> enough so that the Brand can be identified just by its colour and differentiate itself from its competitors, like Coca-Cola's red, Cadbury's purple, Facebook's blue, or Tiffany's teal.</p>
         <p>Ideally, the accent colour should have enough contrast to work well over both light backgrounds and dark backgrounds.</p>
         <hr class="third-separator">
@@ -186,7 +186,7 @@
         <p>0.5&thinsp;&ndash;&thinsp;1 hours</p>
         <small>Description</small>
         <p>Support colours can be used for backgrounds, illustrations, buttons, and other secondary elements. Like DHL's yellow, Spotify's dark grey, Twitter's dark blue, or UPS' beige.</p>
-        <img src="imgs/support-colours.jpg">
+        <img loading="lazy" src="imgs/support-colours.webp">
         <hr class="second-separator">
         <h2 id="visual-language">2.5. Visual Language</h2>
         <small>Task</small>

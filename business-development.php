@@ -46,7 +46,7 @@
         <h2 id="market-research">1. Market Research</h2>
         <p>Exhaustive research is the cornerstone of a strong Brand; It bridges the gap between Business Goals and Brand Identity. Furthermore, the Market Research is not only useful for the Identity Design, but it's also useful for all marketing activities of the business.</p>
         <small>The Poly Group</small>
-        <img src="imgs/market-research.jpg">
+        <img loading="lazy" src="imgs/market-research.webp">
         <p>You can browse the <strong>Market Research</strong> we did for our business at <a href="http://thepolygroup.co/market-research" target="_blank">thepolygroup.co/market-research</a></p>
         <hr class="third-separator">
         <h3 id="business-analysis">1.1. Business Analysis</h3>
@@ -129,7 +129,7 @@
         <tbody>
             <tr>
             <th>Profile Picture</th>
-            <td><img src="imgs/business-brandon.jpg" style="width:300px;margin:auto;"></td>
+            <td><img loading="lazy" src="imgs/business-brandon.webp" style="width:300px;margin:auto;"></td>
             </tr>
             <tr>
             <th>Pseudonym</th>
@@ -264,7 +264,7 @@
 
         <h2 id="business-plan">2. Business Plan</h2>
         <small>The Poly Group</small>
-        <img src="imgs/business-plan.jpg">
+        <img loading="lazy" src="imgs/business-plan.webp">
         <p>You can browse the Business Plan we did for our business at <a href="http://thepolygroup.co/business-plan" target="_blank">thepolygroup.co/business-plan</a></p>
 
         <hr class="second-separator">

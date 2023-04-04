@@ -54,13 +54,13 @@
         <p>The Brand Guidelines document can include the key insights from the Brand Research and Strategy; However, mind that making your research openly available online would give an advantage to your competitor's research.</p>
         <hr class="third-separator">
         <small>Case Studies</small>
-        <img src="imgs/nasa.jpg">
+        <img loading="lazy" src="imgs/nasa.webp">
         <p>We can't discuss Brand Guidelines without mentioning this gem of iconic Swiss design <a href="https://standardsmanual.com/products/nasa-graphics-standards-manual" target="_blank">1975 Nasa Graphics Standards Manual</a>.</p>
         <hr class="third-separator">
-        <img src="imgs/mailchimp.jpg">
+        <img loading="lazy" src="imgs/mailchimp.webp">
         <p><a href="https://styleguide.mailchimp.com/" target="_blank">Mailchimp's Content Style Guide</a> focuses on Brand Strategy, especially on Copywriting themes and Tone.</p>
         <hr class="third-separator">
-        <img src="imgs/spotify.jpg">
+        <img loading="lazy" src="imgs/spotify.webp">
         <p><a href="https://developer.spotify.com/branding-guidelines/" target="_blank">Spotify's Branding Guidelines</a> focus on the Visual Identity and Brand Touchpoints, straight to the point, concise yet informative.</p>
 
 
