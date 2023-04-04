@@ -43,7 +43,7 @@
         <h1 id="digital-product-development">5. Digital Product Development</h1>
         <p>Wether you're planning to develop a simple institutional website, an e-commerce or blog, a web app, or a mobile app, the User Experience Design process is essentially the same.</p>
         <small>The Poly Group</small>
-        <img src="imgs/ux-documentation.webp">
+        <img loading="lazy" src="imgs/ux-documentation.webp">
         <p>For reference, you can browse the UX documentation we did for Polyfen's website at <a href="http://polyfen.com/ux" target="_blank">polyfen.com/ux</a>.</p>
         <hr class="second-separator">
         <h2 id="user-stories">5.1. User Stories</h2>
@@ -117,7 +117,7 @@
         <p>Here, once again, there is a critical distinction between a simple institutional website and a more robust digital product with interactive features. A one-page institutional website might not even need a User Flow diagram. On the other hand, if you're developing an e-commerce website or any other kind of web, mobile, or desktop app with interactive features, a User Flow chart would be beneficial.</p>
         <p>A User Flow charts all the steps that a User might take to complete the goals of his User Stories and Journey. However, the difference between listing the steps of the User Journey and diagramming a User Flow is that the Flow considers <strong>every single possible interaction between the User and the Interface</strong>.</p>
         <p>For instance, if a User is registered or not on the app, it might take the Flow might lead the User through a different path.</p>
-        <img src="imgs/user-flow.webp">
+        <img loading="lazy" src="imgs/user-flow.webp">
         <p>You could easily design your User Flows from scratch, or, if you wanna save some time, you can download User Flow template files such as this paid one <a href="https://ui8.net/neeple/products/wheres-your-flow" target="_blank">ui8.net</a> or some other free alternative.
         <hr class="second-separator">
         <h2 id="information-architecture">5.4. Information Architecture</h2>
@@ -132,7 +132,7 @@
         <p><strong>Think of it as a detailed sitemap.</strong> Which pages should the website or app have? Which sections should each page have? Which type of content would each section have, a Heading, a Paragraph, an Image, a Button?</p>
         <p>Again, you can design your Information Architecture diagram from easily scratch, or you can rely on diagram components template files, there are some free options which you can find online, there are also paid alternatives such as this one published on <a href="https://ui8.net/david-moreno/products/simple-sitemap-kit" target="_blank">ui8.net</a>.</p>
         <small>The Poly Group</small>
-        <img src="imgs/information-architecture.webp">
+        <img loading="lazy" src="imgs/information-architecture.webp">
         <hr class="second-separator">
         <h2 id="content-creation">5.5. Content Creation</h2>
         <small>Task</small>
@@ -148,12 +148,12 @@
         <p>Pro tip, be sure to keep your texts as concise and straight-forward as possible. Users tend to not read large chunks of text, but rather they just skim it as they scroll down. With the exception of a text-oriented platform such as Wikipedia or this very site.</p>
         <p>Additionally, you would want the text to be compelling and enticing to keep the User browsing your site. Offer the User something of value considering the Persona's Unsatisfied Needs and proposed Solutions. As soon as the User lands on your site, they should immediately understand what your site can offer them just by reading the first heading.</p>
         <p>Grab the User's attention by speaking directly to him&thinsp;/&thinsp;her.</p>
-        <img src="imgs/ipad.webp">
+        <img loading="lazy" src="imgs/ipad.webp">
         <p>After writing the first iteration of the copy, I suggest you read it aloud, make sure to edit out any redundant or unnecessary copy.</p>
         <p>As the last step of the text copywriting, you should revise your copy for spelling and grammatical mistakes. <a href="https://www.grammarly.com/">Grammarly</a> is a specially good tool for this.</p>
         <p>Lastly, this is a good moment to define, besides the text, which visual images your content will be including. You can find references of free stock images at <a href="https://unsplash.com" target="_blank">Unsplash.com</a>. You can also define the requirements for infographics, illustrations, animations, or custom photography at this point for the visual designers to use as a starting brief.</p>
         <small>The Poly Group</small>
-        <img src="imgs/content-creation.webp">
+        <img loading="lazy" src="imgs/content-creation.webp">
         <p>You can browse the Content Creation document for Polyfen's homepage here: <a href="https://docs.google.com/document/d/1hUwJAaiQR8_tRy5uDBGUPloiV7cBjBkoI8bZ_z9IY2c/edit?usp=sharing" target="_blank">DOC_PLFN_Copy_Homepage</a></p>
         <hr class="second-separator">
         <h2 id="wireframing">5.6. Wireframing</h2>
@@ -183,7 +183,7 @@
         <p>The different responsive breakdowns based on <a href="https://getbootstrap.com" target="_blank">Bootstrap's</a> framework include: <strong>(XS)</strong> 375px wide (the width of an iPhone 6) and wider, <strong>(S)</strong> 577px (larger phones and small tablets on portrait orientation) and wider, <strong>(M)</strong> 769px (small tablets on landscape orientation) and wider, <strong>(L)</strong> 992px (large tablets and small notebooks) and wider, <strong>(XL)</strong> 1200px (medium sized notebooks) and wider, and &mdash;while it's not on the default breakpoints&mdash; we can also include a larger resolution which is common, <strong>(XXL)</strong> 1680px (15.4" notebooks and desktop monitors) and wider.</p>
         <p>Lastly, we must consider how much of the UI will be displayed "Above the Fold", that means on the top of the page, what the user sees before having to scroll down. This is important to define what is the most important information that the user should see first. ATF dimensions can vary widely from device to device; However, here are some values that can be taken as reference: <strong>(XS)</strong> 667px high (the height of an iPhone 6) and higher, <strong>(S)</strong> 1024px (the height of an iPad mini on portrait orientation) and higher, <strong>(M)</strong> 1194px (the height of an 11" iPad Pro on portrait orientation) and higher, <strong>(L)</strong> 834px (the height of an 11" iPad Pro on landscape orientation) and higher, <strong>(XL)</strong> 768px (the height of an 11" computer) and higher, <strong>(XXL)</strong> 1050px (the height of a 15.4" computer) and higher.</p>
         <small>Template Files</small>
-        <img src="imgs/grid.webp">
+        <img loading="lazy" src="imgs/grid.webp">
         <p>The grid we tend to use is based on Bootstrap's columns but with margins both sides to centre the content in a container with the following proportions: <strong>(XS)</strong> 10px margin (355px wide), <strong>(S)</strong> 20px margin (537px wide), <strong>(M)</strong> 40px margin (689px wide), <strong>(L)</strong> 60px margin (872px wide), <strong>(XL)</strong> 80px margin (1040px wide), <strong>(XXL)</strong> minimum 100px margin (fixed 1480px wide).</p>
         <p><strong>Download ›</strong> <a href="downloads/UI_PLAT_Bootstrap-Grid.fig" target="_blank">UI_PLAT_Bootstrap-Grid.fig</a></p>
         <hr class="third-wireframe">
@@ -209,7 +209,7 @@
         <p>Now that we have our Wireframe's layouts in place, we must start considering applying our Visual Identity to the Wireframes.</p>
         <p>Design a Styleguide including the typographic styles for your headings and body text, think about how your buttons are going to look by default and on hover, what about secondary buttons, input fields, etc.</p>
         <small>The Poly Group</small>
-        <img src="imgs/styleguides.webp">
+        <img loading="lazy" src="imgs/styleguides.webp">
         <hr class="third-separator">
         <small>Task</small>
         <h4>Apply the Styleguide to your Wireframes</h4>
@@ -221,7 +221,7 @@
         <p>We can now finalise the visual design of our UI by applying the styles define, adding custom photography and illustrations, and finally, fine-tuning the overall design.</p>
         <p>If you have only designed a couple of responsive of breakpoints for the Wireframes, like <strong>(XS)</strong> 375px wide and the highest resolution <strong>(XXL)</strong> 1680px; Then, now is the time to define how the UI design will look on the remaining breakpoints <strong>(S)</strong> 577px, <strong>(M)</strong> 769px, <strong>(L)</strong> 992px, and <strong>(XL)</strong> 1200px.</p>
         <small>The Poly Group</small>
-        <img src="imgs/design-comps.webp">
+        <img loading="lazy" src="imgs/design-comps.webp">
         <hr class="second-separator">
         <h2 id="prototyping">5.8. Prototyping</h2>
         <small>Task</small>

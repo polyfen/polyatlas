@@ -41,7 +41,7 @@
         <h1 id="brand-strategy">1. Brand Strategy</h1>
         <p>Based on the information gathered from the Market Research, the Brand Strategy aims to define what’s the best possible way for the business to communicate its most appealing features to the target public and stand out over the competition.</p>
         <small>The Poly Group</small>
-        <img src="imgs/brand-strategy.webp">
+        <img loading="lazy" src="imgs/brand-strategy.webp">
         <p>You can browse our Brand Strategy document at <a href="http://thepolygroup.co/strategy" target="_blank">thepolygroup.co/strategy</a>.</p>
         <hr class="second-separator">
         <h2 id="voice">1.1. Voice</h2>
@@ -58,13 +58,13 @@
         <p>The most basic features of the Brand’s Voice are typically communicating the business’ services&thinsp;/&thinsp;products and its prices.</p>
         <p>However, a Brand can also choose to publish educational content, or share curated links to relevant information on social media; Or perhaps the Brand’s Voice can focus on communicating the business’ mission and core values, or on promoting a humanitarian cause.</p>
         <small>Case studies</small>
-        <img src="imgs/hubspot.webp">
+        <img loading="lazy" src="imgs/hubspot.webp">
         <p><a href="http://hubspot.com" target="_blank">Hubspot</a> offers a suite of CRM (Customer Relationship Management) and marketing tools. However, it has gained a reputable place in the marketing industry thanks to their regular and quality publications of <strong>original educational content</strong> through their blog, ebooks, and online courses.</p>
         <hr class="third-separator">
-        <img src="imgs/abduzeedo.webp">
+        <img loading="lazy" src="imgs/abduzeedo.webp">
         <p><a href="http://abduzeedo.com" target="_blank">Abduzeedo</a> is a long-time running blog publishing design related original content. However, most notoriously, their Brand’s voice relies on publishing <strong>curated content</strong> in their series of daily posts <a href="https://abduzeedo.com/tags/daily-inspiration" target="_blank">“Daily Design Inspiration”</a>, which showcases artworks from any and all designers and visual artists.</p>
         <hr class="third-separator">
-        <img src="imgs/toms.webp">
+        <img loading="lazy" src="imgs/toms.webp">
         <p><a href="https://www.toms.com" target="_blank">Toms</a> is a for-profit footwear manufacturer who voices prominently their <strong>commitment to humanitarian causes.</strong> Most notably, with each pair of shoes sold, the company also gives a pair of shoes to a child in need.</p>
         <hr class="third-separator">
         <div class="video-container">
@@ -86,13 +86,13 @@
         <p>While the Voice defines what a Brand says, the Tone determines how the Brand says it. Together, the Voice and the Tone make up the foundations of a Brand’s personality.</p>
         <p>If the Brand should appeal to a younger, laid-back target public, for instance, a suitable tone would be casual and straight-forward; Whereas, if the Brand targets an older, more traditional target public, it would perhaps be more suitable to maintain a slightly more formal, conservative tone.</p>
         <small>Case studies</small>
-        <img src="imgs/tesla_.webp">
+        <img loading="lazy" src="imgs/tesla_.webp">
         <p><a href="http://tesla.com/" target="_blank">Tesla</a> is a good example of Brands —especially those positioned in the higher-end— which maintain a <strong>professional, no-frills, quiet tone</strong> and let the sublime design of their products speak for itself.</p>
         <hr class="third-separator">
-        <img src="imgs/slack.webp">
+        <img loading="lazy" src="imgs/slack.webp">
         <p>A loading screen could simply just say "Loading". However, <a href="http://slack.com/" target="_blank">Slack</a> takes its loading screen as an opportunity to establish a <strong>friendly, casual, welcoming tone</strong> with whimsical messages.</p>
         <hr class="third-separator">
-        <img src="imgs/authentic-weather-app.webp">
+        <img loading="lazy" src="imgs/authentic-weather-app.webp">
         <p>The <a href="http://authenticweather.com/">Authentic Weather</a> app takes an unexpected approach to communicating weather information along with profanity and crude humour. An original take on <strong>quirky, vulgar, colloquial tone.</strong></p>
         <hr class="third-separator">
         <div class="video-container">
@@ -106,7 +106,7 @@
         <small>The Poly Group</small>
         <blockquote>TPG’s brand by itself has a quiet, no-frills, professional tone.
         </blockquote>
-        <img src="imgs/IMG_TPG_Brand-Personality.webp">
+        <img loading="lazy" src="imgs/IMG_TPG_Brand-Personality.webp">
         <hr class="second-separator">
         <h2 id="keywords">1.3. Keywords</h2>
         <small>Task</small>
@@ -189,9 +189,9 @@
         <p>Lastly, in order to make an homogeneous mix of images, avoid placing similar images close to each-other.</p>
         <p>There are also tools like <a href="https://invisionapp.com" target="_blank">InVision</a> boards which make this process easier.</p>
         <small>The Poly Group</small>
-        <img src="imgs/moodboard.webp">
+        <img loading="lazy" src="imgs/moodboard.webp">
         <small>Template Files</small>
-        <img src="imgs/moodboard-template.webp">
+        <img loading="lazy" src="imgs/moodboard-template.webp">
         <p><strong>Download ›</strong> <a href="downloads/IMG_PLAT_Moodboard-Template.ai" target="_blank">IMG_PLAT_Moodboard-Template.ai</a></p>
         <hr class="second-separator">
         <h2 id="naming">1.6. Naming</h2>
@@ -255,13 +255,13 @@
         <p>Even though you might abbreviate a brand's name internally, amongst the company's employees. It is important to maintain a consistent use of the name on all public Brand Communications. Otherwise, people might be confused in regards to how the band name is actually meant to be spelled.</p>
         <p>Ensure that the brand name is always capitalised, spaced, and punctuated in the same way throughout all the brand communications, including the logo.</p>
         <p>Unorthodox capitalisation, spacing, and punctuation can be an issue both for how easy it is to spell a brand name correctly upon hearing for the first time, and it additionally poses a problem for consistency.</p>
-        <img src="imgs/lowercase-logos.webp">
+        <img loading="lazy" src="imgs/lowercase-logos.webp">
         <p>For instance, the use of the brand name on behalf of Facebook is inconsistent and can confuse the public as to how it is actually meant to be spelled, since in most brand communications the Brand Name is spelled as “Amazon”, while their logo, the centrepiece of their Brand, is set in all lower-case letters, as “amazon”. The same can be said of “Facebook”, whose logo spells “facebook”, “eBay” and its “ebay” logo, or “Adidas”, whose logo spells “adidas”. Other examples of all lower-case logos include “Intel”, “Accenture”, “Pepsi”, “Mastercard”, and many others.</p>
-        <img src="imgs/uppercase-logos.webp">
+        <img loading="lazy" src="imgs/uppercase-logos.webp">
         <p>On the other hand, the same issue occurs when a logo is set in all upper-case letters. Such as “American Express”, whose logo spells “AMERICAN EXPRESS”, “Oracle”, whose logo spells “ORACLE”, “Samsung” and its “SAMSUNG” logo, or “Hermès” logo spelling “HERMÈS”. This is a very common tendency, which, besides of creating inconsistency in the use of the brand name, it also reduces the readability of the logo, especially in longer words set in all-uppercase, and especially if the word contains diacritic signs, like the “grave e accent” in “Hermès”. Other examples of all upper-case logos include “Siemens”, “Toyota”, “Honda”, “Kia”, “Chanel”, “Louis Vuitton”, and many others.</p>
         <p>The particular practice of setting a brand name in all upper-case letters is not entirely unacceptable. However, the designer must be aware that readability and consistency are being sacrificed for the sake of aesthetics.</p>
         <p>On the other hand, Brand Names including initialisms —such as “DHL”, “UPS”, “HSBC”, “BMW”, or “H&M”— , must be set in uppercase accordingly.</p>
-        <img src="imgs/smallcaps-logos.webp">
+        <img loading="lazy" src="imgs/smallcaps-logos.webp">
         <p>A suitable compromise that works around this issue  is the use of small caps, which clearly distinguishes the correct capitalisation of the words, while featuring an uppercase alphabet. An example of this can be seen on the logos of “Jack Daniel’s”, “Johnnie Walker”, “John Deere”, and “Tiffany & Co.”.</p>
         <p>As you can see, even some of the largest, most renowned Brands are guilty of using their Brand Name inconsistently. Admittedly, since the public is quite familiar with the brand names of these large brands, they are less likely to be confounded by the inconsistency use of their Brand Names. However, this issue especially poses a threat for new and emerging business who want to get their name out there. If the target public is not sure about what the actual name of your brand name is, then your brand is not communicating it clearly enough to the public. The Brand Name should be spelled in the Brand’s logo just as it’s meant to be spelled in any other form of communication.</p>
         </div>
@@ -283,13 +283,13 @@
           <p>The perfect Brand Name doesn't exist, it's a fallacy. Be ready to compromise and go for the most suitable direction you've surveyed, even if it's not perfect. The Brand Name will grow on the business owners and target public over time.</p>
         </div>
         <small>Case studies</small>
-        <img src="imgs/prada.webp">
+        <img loading="lazy" src="imgs/prada.webp">
         <p>The Brand Name <a href="https://www.prada.com" target="_blank">Prada</a> is short, memorable, unique, and more importantly, it is unmistakably pronounced in the exact same way throughout most of the world. Making it one of the most recognisable Brand Names worldwide.</p>
         <hr class="third-separator">
-        <img src="imgs/intel.webp">
+        <img loading="lazy" src="imgs/intel.webp">
         <p><a href="https://www.intel.com" target="_blank">Intel</a>, which is a conjunction of “Integrated Electronics”, is short, memorable, easy to pronounce and spell, and its meaning is related to the industry it belongs to.</p>
         <hr class="third-separator">
-        <img src="imgs/tesla.webp">
+        <img loading="lazy" src="imgs/tesla.webp">
         <p>The best thing about electric car manufacturer <a href="https://www.tesla.com/" target="_blank">Tesla’s</a> Brand Name is not only that is short, easy to pronounce, and easy to spell; but, it also has the added value of referencing an historical figure (Nikola Tesla) very much relevant to the vision and mission of the company.</p>
         <small>The Poly Group</small>
         <blockquote>To understand the name of The Poly Group’s brand we must first acknowledge that Polyfen was our original business unit, our first Brand. Once we expanded our business to include Poly Atlas we decided to maintain a certain consistency that binds all our portfolio of Brands together with the suffix “Poly”. Hence, we naturally came up with “The Poly Group” as the name of our parent, corporate-facing Brand.</blockquote>
@@ -334,7 +334,7 @@
         <small>Estimated workload</small>
         <p>0.5&thinsp;&ndash;&thinsp;1.5 hours</p>
         <small>Description</small>
-        <img src="imgs/microsoft-windows.webp">
+        <img loading="lazy" src="imgs/microsoft-windows.webp">
         <p>A business can use a single brand to identify all their Brand Communications. However, in some cases, it’s suitable to develop different Brand Identities for the products, services, divisions, or subsidiaries of a business. For instance, the business registered as “Microsoft Corporation” is identified with the “Microsoft” brand, which has a sub-brands for many products, most notably “Windows”, the operative system.</p>
         <p>Before considering if a particular business needs to be identified with multiple Brands, one must understand that the marketing efforts of a business would have to be distributed amongst the different Brands. Hence, small businesses would likely struggle to spend the time and resources necessary to maintain multiple Brands and promote each separate Brand through different social media accounts.</p>
         <p>Creating a separate brand for a product, service, division, or subsidiary of a business should be kept to a minimum and it should be only done when the Sub-Brand would communicate a distinctively different product, service, division, or subsidiary of the business.</p>
@@ -349,40 +349,40 @@
         <p>If a business is to be associated with multiple Brands, we must then define and diagram the Brand Architecture, the type of relationship between the Brands.</p>
         <small>Case studies</small>
         <h5>Monolithic brand Architecture</h5>
-        <img src="imgs/fedex.webp">
+        <img loading="lazy" src="imgs/fedex.webp">
         <blockquote>Characterised by a strong, single Master-Brand. Customers make choices based on Brand loyalty. Features and benefits matter less to the consumer than the Brand promise and persona. Brand extensions use the parent’s identity, and generic descriptors. — Alina Wheeler, “Designing Brand Identity”</blockquote>
         <p>The FedEx Corporation counts with a Sub-Brand for each of its business  divisions. All easily identified as part of the FedEx family.</p>
         <hr class="third-separator">
         <h5>Endorsed Brand Architecture</h5>
-        <img src="imgs/nike-jordan.webp">
+        <img loading="lazy" src="imgs/nike-jordan.webp">
         <blockquote>Characterised by marketing synergy between the product or division, and the parent. The product or division has a clearly defined market presence, and benefits from the association, endorsement, and visibility of the parent. — Alina Wheeler, “Designing Brand Identity”</blockquote>
         <p>Nike counts with a line of products inspired by the famous basketball player Michael Jordan; the iconic shoes and apparel belonging to the “Jordan” collection can be identified with its own logo as belonging to a separate Brand from Nike. However, on most Jordan products, the Nike logo is also prominently displayed.</p>
         <hr class="third-separator">
         <h5>Pluralistic Brand Architecture</h5>
-        <img src="imgs/unilever.webp">
+        <img loading="lazy" src="imgs/unilever.webp">
         <blockquote>Characterised by a series of well-known consumer Brands. The name of the parent may be either invisible or inconsequential to the consumer, and known only to the investment community. Many parent companies develop a system for corporate endorsement that is tertiary. — Alina Wheeler, “Designing Brand Identity”</blockquote>
         <p>Even though Unilever’s Sub-Brands are publicly endorsed by their parent company, each Sub-Brand is marketed strongly so the consumers will identify them independently of Unilever.</p>
         <hr class="third-separator">
         <h5>Colab brand architecture</h5>
-        <img src="imgs/game-of-thrones-lagavulin.webp">
+        <img loading="lazy" src="imgs/game-of-thrones-lagavulin.webp">
         <p>On special occasions, Brands which are not necessarily owned by a single corporation decide to team up to develop a unique product or service; More commonly, a limited-edition product or a novelty collector’s item.</p>
-        <img src="imgs/game-of-thrones.webp">
+        <img loading="lazy" src="imgs/game-of-thrones.webp">
         <p>On the eve of HBO airing the last season of Game of Thrones, the TV series production company teamed up with multiple whisky producers to distill a series of single malt scotches each one inspired in a different house or faction from the series.</p>
         <hr class="third-separator">
         <h5>Composite Brand Architecture</h5>
-        <img src="imgs/alphabet.webp">
+        <img loading="lazy" src="imgs/alphabet.webp">
         <p>Brand Architecture is not always black or white. It is common for business to adopt a more flexible approach combining multiple types of architecture. Most often in larger corporations one would find that the Master-Brand has sub-brands which, in turn, are parents to further Sub-Brands. Within the whole family/portfolio of brands belonging to a business, some of the Brands might be better identified as Monolithic, while others as Endorsed, or Pluralistic.</p>
         <p>"Alphabet, Inc" is the business facing Master-Brand of multiple pluralistic Sub-Brands, which include Youtube, Google, Android, Waymo, Nest, Waze, Calico, and a few others. Of these, the most notable is Google, which is parent to a wide range of Monolithic products, including Gmail, Google Maps, Google Translate, Google Drive, Google Calendar, Google Chrome, Google Ads, and many more.</p>
-        <img src="imgs/apple-nike.webp">
+        <img loading="lazy" src="imgs/apple-nike.webp">
         <p>The Apple Watch - NikePlus edition is an example of two big Brands partnering up to develop a unique product. Note that in this case, the colab Brand Architecture type happens to connect two Monolithic Brand-Architecture Sub-Brands.</p>
-        <img src="imgs/nike-full.webp">
+        <img loading="lazy" src="imgs/nike-full.webp">
         <p>Furthermore, if we take a closer look into Nike’s full Brand Architecture, we can see that it counts with (1) a Monolithic Sub-Brand (NikePlus), (2) an Endorsed Sub-Brand (Jordan), (3) Pluralistic Sub-Brands (Hurley and Converse), and lastly, (4) a Colab Second-Sub-Brand (Apple Watch, NikePlus edition).</p>
         <p>On a tangent, consider that the business structure and the Brand Architecture of an enterprise is not necessary diagrammed in the same way.</p>
         <p>The business should be structured as it’s more suitable for the internal business operations, whereas the Brand Identity Architecture should be diagrammed as it’s more suitable for the public.</p>
-        <img src="imgs/business-structure-and-brand-architecture.webp">
+        <img loading="lazy" src="imgs/business-structure-and-brand-architecture.webp">
         <p>The business operating as the FedEx Corporation is responsible for managing seven subsidiary divisions. While the business structure positions the corporate division on top, for the tar get public, the Brand Identity places the Sub-Brand on the same level as the subsidiaries, all under the umbrella of the FedEx Master-Brand.</p>
         <small>The Poly Group</small>
-        <img src="imgs/the-poly-group-architecture.webp">
+        <img loading="lazy" src="imgs/the-poly-group-architecture.webp">
         <blockquote>Our Brand Architecture is defined as an “Endorsed Brand Architecture”; However, there is an evident relationship between the family of Brands both in their Brand Names and Logo Systems. This aspect, often found in “Monolithic Brand Architecture”, aims to bind the family of Brands together and leverage our Brand Awareness.</blockquote>
         <hr>
         <h2 id="key-messages">1.8. Key Messages</h2>
