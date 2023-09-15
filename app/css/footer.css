@@ -34,9 +34,14 @@ footer {
 }
 
 footer #the-poly-group, footer #the-poly-group-negative {
-  right: 5px;
+  right: 20px;
   position: fixed;
   bottom: 15px;
+  width: 80px;
+}
+
+footer #the-poly-group img {
+  box-shadow: none
 }
 
 /*---------- FOOTER end ------------*/
