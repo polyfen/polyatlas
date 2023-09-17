@@ -1,5 +1,5 @@
 body.dark-theme {
-  background: #090D0F;
+  background: #0e1113;
 }
 
 ::-moz-selection { /* Code for Firefox */
@@ -44,11 +44,11 @@ body.dark-theme p, body.dark-theme p a, body.dark-theme li, body.dark-theme p st
 
 body.dark-theme hr {
   border-bottom-color: #FFFFFF91;
-  background: #fff4e5;
+  background: none;
 }
 
 body.dark-theme div#sidebar-wrapper {
-    background: #000 !important;
+    background: #0000007d !important;
 }
 
 

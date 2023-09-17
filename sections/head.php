@@ -69,6 +69,8 @@
   <!-- FONTS -->
   <link rel="stylesheet" href="https://use.typekit.net/equ5vqy.css">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+  <link rel="stylesheet" href="app/fonts/Biotif.css" type="text/css">
+  <link rel="stylesheet" href="app/fonts/Freight-Text-Pro.css" type="text/css">
 
   <!-- Google Tag Manager -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

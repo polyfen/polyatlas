@@ -1,5 +1,5 @@
 body.light-theme {
-  background: #fef8f6;
+  background: #f6f8fe;
 }
 
 ::-moz-selection { /* Code for Firefox */
@@ -45,7 +45,7 @@ body.light-theme p, body.light-theme p a, body.light-theme li, body.light-theme 
 
 body.light-theme hr {
   border-bottom-color: #00000091;
-  background: #fff4e5;
+  background: none;
 }
 
 body.light-theme div#sidebar-wrapper {
