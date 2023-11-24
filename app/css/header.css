@@ -3,7 +3,7 @@
 header {
   position: fixed;
   width: 100%;
-  border-top: 12px solid #00bcaa;
+/*   border-top: 12px solid #00bcaa; */
   margin-top: -12px;
   z-index: 999999999;
 }
