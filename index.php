@@ -3,7 +3,7 @@
 
 <!-- INCLUDE HEAD.PHP start -->
   <?php include 'sections/head.php';?>
-<!-- INCLUDE HEAD.PHP end -->
+<!-- INCLUDE HEAD.PHP end --->
 
   <body id="getting-started-container" class="light-theme">
 
