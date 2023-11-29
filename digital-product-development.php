@@ -42,7 +42,7 @@
       
         <h1 id="digital-product-development">5. Digital Product Development</h1>
         <p>Wether you're planning to develop a simple institutional website, an e-commerce or blog, a web app, or a mobile app, the User Experience Design process is essentially the same.</p>
-        <small>The Poly Group</small>
+        <small>The Polyfen Group</small>
         <img loading="lazy" src="imgs/ux-documentation.webp">
         <p>For reference, you can browse the UX documentation we did for Polyfen's website at <a href="http://polyfen.com/ux" target="_blank">polyfen.com/ux</a>.</p>
         <hr class="second-separator">
@@ -57,7 +57,7 @@
         <p>The first step is to consider the needs of you Brand's User Personas, as we've defined here in the section <a href="#target-public-analysis">3.1. Target public analysis</a> of the Business Development process. Especially, consider their (1) Occupation, (2) Unsatisfied need, and (3) Solution offered by the business.</p>
         <p>Then list those specification following the format "As a [Occupation], I need [Solution], so that I can [Unsatisfied need]."</p>
         <p>Keep in mind that a single User Persona may have more than one User Story based on their Unsatisfied needs. Additionally, one same User Story might apply to more than one Persona.</p>
-        <small>The Poly Group</small>
+        <small>The Polyfen Group</small>
         <p>You might find it useful to start with the User Story that is most closely related to your Business goals. For instance, for us at Polyfen would be to get our prospective clients to contact us through a contact form. And then, you can consider all the secondary information and features they would need.</p>
         <table>
           <tbody>
@@ -98,7 +98,7 @@
         <p>Taking the User Stories into consideration, list the necessary steps that a User would have to perform in order to complete his&thinsp;/&thinsp;her final goal.</p>
         <p>The User Journey is pretty straight-forward for a simple institutional website, for instance: (1) <strong>Awareness</strong>, the first contact with your Brand and considering entering the website. Think of the context. Where is the user most likely to find your brand? is it on social media, a Google search, other?, (2) <strong>Consideration</strong>, entering and browsing the website. Think of which information would take to convince the user to fulfil his&thinsp;/&thinsp;her goal. and (3) <strong>Conversion</strong>, completing the desired goal, i.e., filling out the website's contact form.</p>
         <p>However, for a more elaborate application we must consider the steps necessary for the User to Sign-up and use the app's features. In the case of developing an app, we can differentiate two types of User Journeys. (1) <strong>Critical User Journeys</strong>, including downloading the app, signing-up, on-boarding, etc; and (2) <strong>Toothbrush User Journeys</strong>, the activities and features that a user would use recurrently.</p>
-        <small>The Poly Group</small>
+        <small>The Polyfen Group</small>
         <blockquote><strong>1. Awareness</strong><br/>
         The user finds our Brand on social media. For this we will require to generate social media content and promote it to get not only organic reach, but also paid reach through Instagram and LinkedIn campaigns. The ads for our Primary target group should attract prospective consumers by enticing our services and showing how they can benefit from our services with the aim of leading them to enter our website.<br/><br/>
         <strong>2. Consideration</strong><br/>
@@ -131,7 +131,7 @@
         <p>Based on the User Stories, Journey, and Flow we can infer which information the web users would require, in which order of priority, and how would that information be organised.</p>
         <p><strong>Think of it as a detailed sitemap.</strong> Which pages should the website or app have? Which sections should each page have? Which type of content would each section have, a Heading, a Paragraph, an Image, a Button?</p>
         <p>Again, you can design your Information Architecture diagram from easily scratch, or you can rely on diagram components template files, there are some free options which you can find online, there are also paid alternatives such as this one published on <a href="https://ui8.net/david-moreno/products/simple-sitemap-kit" target="_blank">ui8.net</a>.</p>
-        <small>The Poly Group</small>
+        <small>The Polyfen Group</small>
         <img loading="lazy" src="imgs/information-architecture.webp">
         <hr class="second-separator">
         <h2 id="content-creation">5.5. Content Creation</h2>
@@ -152,7 +152,7 @@
         <p>After writing the first iteration of the copy, I suggest you read it aloud, make sure to edit out any redundant or unnecessary copy.</p>
         <p>As the last step of the text copywriting, you should revise your copy for spelling and grammatical mistakes. <a href="https://www.grammarly.com/">Grammarly</a> is a specially good tool for this.</p>
         <p>Lastly, this is a good moment to define, besides the text, which visual images your content will be including. You can find references of free stock images at <a href="https://unsplash.com" target="_blank">Unsplash.com</a>. You can also define the requirements for infographics, illustrations, animations, or custom photography at this point for the visual designers to use as a starting brief.</p>
-        <small>The Poly Group</small>
+        <small>The Polyfen Group</small>
         <img loading="lazy" src="imgs/content-creation.webp">
         <p>You can browse the Content Creation document for Polyfen's homepage here: <a href="https://docs.google.com/document/d/1hUwJAaiQR8_tRy5uDBGUPloiV7cBjBkoI8bZ_z9IY2c/edit?usp=sharing" target="_blank">DOC_PLFN_Copy_Homepage</a></p>
         <hr class="second-separator">
@@ -208,7 +208,7 @@
         <small>Description</small>
         <p>Now that we have our Wireframe's layouts in place, we must start considering applying our Visual Identity to the Wireframes.</p>
         <p>Design a Styleguide including the typographic styles for your headings and body text, think about how your buttons are going to look by default and on hover, what about secondary buttons, input fields, etc.</p>
-        <small>The Poly Group</small>
+        <small>The Polyfen Group</small>
         <img loading="lazy" src="imgs/styleguides.webp">
         <hr class="third-separator">
         <small>Task</small>
@@ -220,7 +220,7 @@
         <small>Description</small>
         <p>We can now finalise the visual design of our UI by applying the styles define, adding custom photography and illustrations, and finally, fine-tuning the overall design.</p>
         <p>If you have only designed a couple of responsive of breakpoints for the Wireframes, like <strong>(XS)</strong> 375px wide and the highest resolution <strong>(XXL)</strong> 1680px; Then, now is the time to define how the UI design will look on the remaining breakpoints <strong>(S)</strong> 577px, <strong>(M)</strong> 769px, <strong>(L)</strong> 992px, and <strong>(XL)</strong> 1200px.</p>
-        <small>The Poly Group</small>
+        <small>The Polyfen Group</small>
         <img loading="lazy" src="imgs/design-comps.webp">
         <hr class="second-separator">
         <h2 id="prototyping">5.8. Prototyping</h2>

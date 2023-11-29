@@ -40,7 +40,7 @@
         
         <h1 id="brand-strategy">1. Brand Strategy</h1>
         <p>Based on the information gathered from the Market Research, the Brand Strategy aims to define what’s the best possible way for the business to communicate its most appealing features to the target public and stand out over the competition.</p>
-        <small>The Poly Group</small>
+        <small>The Polyfen Group</small>
         <img loading="lazy" src="imgs/brand-strategy.webp">
         <p>You can browse our Brand Strategy document at <a href="http://thepolygroup.co/strategy" target="_blank">thepolygroup.co/strategy</a>.</p>
         <hr class="second-separator">
@@ -72,7 +72,7 @@
         </div>
         <p>In the digital age, more and more Brands are taking a stand to voice their opinions on <strong>socio-political matters.</strong> This is a risky and polarising move for Brands since they can gain the respect and loyalty of some Public Groups who share their socio-political views; However, on the other hand, they can also suddenly loose the support of long-time followers.</p>
         <p>American Football player Colin Kaepernick was the first of many athletes to kneel during the national anthem played before each NFL game as a form of passive protest against police brutality and racial oppression. After <a href="https://www.nike.com/" target="_blank">Nike</a> endorsed Kaepernick in a series of adverts, backlash ensued with a viral wave of conservative groups going so far as to burn their costly Nike shoes as a way to boycott the company.</p>
-        <small>The Poly Group</small>
+        <small>The Polyfen Group</small>
         <blockquote>Our parent brand has a <strong>quiet voice</strong> and let’s the sub-brands do all the speaking. For instance, TPG’s Twitter account should be focused on Retweeting all posts by its subsidiary brands.</blockquote>
         <hr class="second-separator">
         <h2 id="tone">1.2. Tone</h2>
@@ -103,7 +103,7 @@
         <div class="video-container">
           <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/h0TRpGP8yH4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
-        <small>The Poly Group</small>
+        <small>The Polyfen Group</small>
         <blockquote>TPG’s brand by itself has a quiet, no-frills, professional tone.
         </blockquote>
         <img loading="lazy" src="imgs/IMG_TPG_Brand-Personality.webp">
@@ -121,7 +121,7 @@
         <p>Reinforced over time, each interaction should cultivate further an association between the keywords and the brand in the mind of the target public.</p>
         <p>Avoid selecting generic, ambiguous, overused keywords such as “professional” or “excellent”; but, instead, seek to select specific, expressive, distinctive adjectives.</p>
         <p>Keep the list concise and focused on a common theme. Ideally, approximately seven words.</p>
-        <small>The Poly Group</small>
+        <small>The Polyfen Group</small>
         <p>In no particular order:</p>
         <div class="indent">
         <ul>
@@ -159,7 +159,7 @@
         <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/epPS_DjEWWY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <blockquote>You must focus your Branding efforts on owning a word in the prospect’s mind. A word that no one else owns. What “prestige” is to Mercedes, <strong>“safety”</strong> is to Volvo. —Al & Laura Ries</blockquote>
-        <small>The Poly Group</small>
+        <small>The Polyfen Group</small>
         <blockquote>Re-thinking Branding for the Internet Age</blockquote>
         <hr class="second-separator">
         <h2 id="moodboard">1.5. Moodboard</h2>
@@ -188,7 +188,7 @@
         <p>It is also advisable to feature the most relevant images more prominently, in a larger size, and adding the secondary images at a smaller scale.</p>
         <p>Lastly, in order to make an homogeneous mix of images, avoid placing similar images close to each-other.</p>
         <p>There are also tools like <a href="https://invisionapp.com" target="_blank">InVision</a> boards which make this process easier.</p>
-        <small>The Poly Group</small>
+        <small>The Polyfen Group</small>
         <img loading="lazy" src="imgs/moodboard.webp">
         <small>Template Files</small>
         <img loading="lazy" src="imgs/moodboard-template.webp">
@@ -248,7 +248,7 @@
         <p>A modular name that is easy to abbreviate can be a tremendous advantage. When a Brand Name is mentioned over and over again, the target public will seek to replace it with an abbreviation. This is especially common amongst the employees of a company who need to mention the company's name on a daily basis.</p>
         <p>For instance, Facebook is abbreviated as simply “fb” on a casual setting, just as Instagram is abbreviated as “Insta”.</p>
         <p>Additionally, if the brand might branch out into different sub-brands, a modular, adaptable name can connect the sub-brands to the master-brand.</p>
-        <p>For instance, at The Poly Group, we internally refer to our company simply as "Poly"; and we've carried on the DNA of our master-brand to the names of our family of sub-brands "Polyfen", "Poly Atlas", and "Poly Forum".</p>
+        <p>For instance, at The Polyfen Group, we internally refer to our company simply as "Poly"; and we've carried on the DNA of our master-brand to the names of our family of sub-brands "Polyfen", "Poly Atlas", and "Poly Forum".</p>
         </div>
         <h5>6. Consistent</h5>
         <div class="indent">
@@ -291,8 +291,8 @@
         <hr class="third-separator">
         <img loading="lazy" src="imgs/tesla.webp">
         <p>The best thing about electric car manufacturer <a href="https://www.tesla.com/" target="_blank">Tesla’s</a> Brand Name is not only that is short, easy to pronounce, and easy to spell; but, it also has the added value of referencing an historical figure (Nikola Tesla) very much relevant to the vision and mission of the company.</p>
-        <small>The Poly Group</small>
-        <blockquote>To understand the name of The Poly Group’s brand we must first acknowledge that Polyfen was our original business unit, our first Brand. Once we expanded our business to include Poly Atlas we decided to maintain a certain consistency that binds all our portfolio of Brands together with the suffix “Poly”. Hence, we naturally came up with “The Poly Group” as the name of our parent, corporate-facing Brand.</blockquote>
+        <small>The Polyfen Group</small>
+        <blockquote>To understand the name of The Polyfen Group’s brand we must first acknowledge that Polyfen was our original business unit, our first Brand. Once we expanded our business to include Poly Atlas we decided to maintain a certain consistency that binds all our portfolio of Brands together with the suffix “Poly”. Hence, we naturally came up with “The Polyfen Group” as the name of our parent, corporate-facing Brand.</blockquote>
         <hr class="third-separator">
         <small>Task</small>
         <h4>Define the Naming Architecture</h4>
@@ -314,16 +314,16 @@
         </div>
         <h5>3. Judicial Business Name:</h5>
         <div class="indent">
-        <p>The official name under which the business behind the Brand is legally registered as a taxpayer. For instance “Facebook, Inc.” for “Facebook”, “The Poly Group Co LLC” for “The Poly Group”, "Polyfen", and all our family of Sub-Brands, “Alphabet Inc.” for “Google”, “Microsoft Corporation” for “Microsoft”.</p>
+        <p>The official name under which the business behind the Brand is legally registered as a taxpayer. For instance “Facebook, Inc.” for “Facebook”, “The Polyfen Group Co LLC” for “The Polyfen Group”, "Polyfen", and all our family of Sub-Brands, “Alphabet Inc.” for “Google”, “Microsoft Corporation” for “Microsoft”.</p>
         </div>
         <h5>4. Diminutive Brand Name:</h5>
         <div class="indent">
         <p>A diminutive alternative for casual use, especially amongst the members of the business. For instance “Poly” for “Polyfen”, “fb” for “Facebook”, or “Insta” for “Instagram”.</p>
         </div>
-        <small>The Poly Group</small>
-        <blockquote><strong>Primary Brand Name:</strong> The Poly Group</br></br>
-        <strong>Fallback Brand Name:</strong> The Poly Group Co</br></br>
-        <strong>Judicial Business Name:</strong> The Poly Group Co LLC</br></br>
+        <small>The Polyfen Group</small>
+        <blockquote><strong>Primary Brand Name:</strong> The Polyfen Group</br></br>
+        <strong>Fallback Brand Name:</strong> The Polyfen Group Co</br></br>
+        <strong>Judicial Business Name:</strong> The Polyfen Group Co LLC</br></br>
         <strong>Diminutive Name:</strong> Poly</blockquote>
         <hr class="second-separator">
         <h2 id="brand-architecture">1.7. Brand architecture</h2>
@@ -381,7 +381,7 @@
         <p>The business should be structured as it’s more suitable for the internal business operations, whereas the Brand Identity Architecture should be diagrammed as it’s more suitable for the public.</p>
         <img loading="lazy" src="imgs/business-structure-and-brand-architecture.webp">
         <p>The business operating as the FedEx Corporation is responsible for managing seven subsidiary divisions. While the business structure positions the corporate division on top, for the tar get public, the Brand Identity places the Sub-Brand on the same level as the subsidiaries, all under the umbrella of the FedEx Master-Brand.</p>
-        <small>The Poly Group</small>
+        <small>The Polyfen Group</small>
         <img loading="lazy" src="imgs/the-poly-group-architecture.webp">
         <blockquote>Our Brand Architecture is defined as an “Endorsed Brand Architecture”; However, there is an evident relationship between the family of Brands both in their Brand Names and Logo Systems. This aspect, often found in “Monolithic Brand Architecture”, aims to bind the family of Brands together and leverage our Brand Awareness.</blockquote>
         <hr>
@@ -396,8 +396,8 @@
         <small>Description</small>
         <p>The first paragraph of the Key Messages should concisely describe the purpose and the people behind the business; How many people work in the business? Is it a new business or an established business? Where is it geographically based? What service&thinsp;/&thinsp;product does the business offer? What's the vision&thinsp;/&thinsp;mission of the business? What do the members of the business have in common, what brought them together?</p>
         <p>This paragraph should be particularly useful for an "About" section of a website, and for the "About" section of the business' Facebook page.</p>
-        <small>The Poly Group</small>
-        <blockquote>The Poly Group is a location-independent team with HQ in Mar del Plata, Argentina. Our team is small, but efficient and experienced. Additionally, we count with a vast network of expert consultants in Business Development, Creative services, Sociology, and IT. Our team works remotely, distributed in Argentina, Europe, the USA, and Australia; We are highly organised for seamless remote work.</blockquote>
+        <small>The Polyfen Group</small>
+        <blockquote>The Polyfen Group is a location-independent team with HQ in Mar del Plata, Argentina. Our team is small, but efficient and experienced. Additionally, we count with a vast network of expert consultants in Business Development, Creative services, Sociology, and IT. Our team works remotely, distributed in Argentina, Europe, the USA, and Australia; We are highly organised for seamless remote work.</blockquote>
         <hr class="third-separator">
         <small>Task</small>
         <h4>Write a Services&thinsp;/&thinsp;Products paragraph</h4>
@@ -407,8 +407,8 @@
         <p>0.5&thinsp;&ndash;&thinsp;1.5 hours</p>
         <small>Description</small>
         <p>Breakdown the business offer and list the most appealing features of the business offer; What problem does the business solve for its target public?</p>
-        <small>The Poly Group</small>
-        <blockquote>The Poly Group offers integral Branding solutions for emerging businesses worldwide; Namely, Polyfen offers Brand Identity Design. Additionally, we count with a digital product, Poly Atlas, a free guide to the Branding process; and a non-profit organization, Poly Forum, dedicated to promoting free and open education and networking in the creative industry.</blockquote>
+        <small>The Polyfen Group</small>
+        <blockquote>The Polyfen Group offers integral Branding solutions for emerging businesses worldwide; Namely, Polyfen offers Brand Identity Design. Additionally, we count with a digital product, Poly Atlas, a free guide to the Branding process; and a non-profit organization, Poly Forum, dedicated to promoting free and open education and networking in the creative industry.</blockquote>
         <hr class="third-separator">
         <small>Task</small>
         <h4>Write a Differential paragraph</h4>
@@ -418,7 +418,7 @@
         <p>0.5&thinsp;&ndash;&thinsp;1.5 hours</p>
         <small>Description</small>
         <p>How does the business stand out over its competition? What its USP (Unique Selling Proposition)?</p>
-        <blockquote>The Poly Group’s business model with segmented Sub-Brands allow us to provide holistic solutions to our customers while ensuring that each part of the Branding process is taken care of by a team which specialises on each service we offer. Additionally, our location-independent business model allows us to offer high-quality services at competitive prices.</blockquote>
+        <blockquote>The Polyfen Group’s business model with segmented Sub-Brands allow us to provide holistic solutions to our customers while ensuring that each part of the Branding process is taken care of by a team which specialises on each service we offer. Additionally, our location-independent business model allows us to offer high-quality services at competitive prices.</blockquote>
         <hr class="third-separator">
         <small>Task</small>
         <h4>Write a Summary paragraph</h4>
@@ -428,8 +428,8 @@
         <p>0.5&thinsp;&ndash;&thinsp;1.5 hours</p>
         <small>Description</small>
         <p>Summarise the previous three paragraphs (About, Services&thinsp;Products, Differential) into a single, concise paragraph.</p>
-        <small>The Poly Group</small>
-        <blockquote>The Poly Group is a small, efficient location-independent business incorporating different organisations, services, and products centred on the Branding process offering high-quality work at competitive prices.</blockquote>
+        <small>The Polyfen Group</small>
+        <blockquote>The Polyfen Group is a small, efficient location-independent business incorporating different organisations, services, and products centred on the Branding process offering high-quality work at competitive prices.</blockquote>
         <hr class="third-separator">
         <small>Task</small>
         <h4>Write an Bio sentence</h4>
@@ -440,8 +440,8 @@
         <small>Description</small>
         <p>Narrow down the Summary paragraph into a single, short sentence.</p>
         <p>This sentence is particularly useful as a Bio line for Twitter and Instagram profiles.</p>
-        <small>The Poly Group</small>
-        <blockquote>The Poly Group incorporates a suite of organisations, services, and products centred on the Branding process.</blockquote>
+        <small>The Polyfen Group</small>
+        <blockquote>The Polyfen Group incorporates a suite of organisations, services, and products centred on the Branding process.</blockquote>
 
 
         <hr>
