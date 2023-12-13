@@ -15,5 +15,5 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:
         server: ftp.borishrncic.com
-        username: ${{ secrets.polyatlas_ftp_username }}
-        password: ${{ secrets.polyatlas_ftp_password }}
+        username: ${{ secrets.ftp_username }}
+        password: ${{ secrets.ftp_password }}
