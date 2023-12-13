@@ -1,4 +1,4 @@
-<a class="d-none" id="open-sidebar-button" title="Table of Contents" onclick="document.getElementById('sidebar-wrapper').className='open-sidebar';document.getElementById('open-sidebar-button').className='d-none';">
+<a class="d-none patch-1" id="open-sidebar-button" title="Table of Contents" onclick="document.getElementById('sidebar-wrapper').className='open-sidebar';document.getElementById('open-sidebar-button').className='d-none';">
   <i class="fas fa-bars"></i>
 </a>
 
@@ -6,9 +6,9 @@
   Table of Contents
 </a>
 
-<div id="sidebar-wrapper" class="open-sidebar">
+<div id="sidebar-wrapper" class="open-sidebar cerrado">
 
-  <a class="toc-button" onclick="document.getElementById('sidebar-wrapper').className='d-none';document.getElementById('open-sidebar-button').className='toc-button';">
+  <a class="toc-button" id="patch-2" onclick="document.getElementById('sidebar-wrapper').className='d-none';document.getElementById('open-sidebar-button').className='toc-button';">
     <i class="fas fa-bars"></i>
   </a>
 

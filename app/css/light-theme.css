@@ -1,5 +1,5 @@
 body.light-theme {
-  background: #F7F9FB;
+  background: #f9fafb;
 }
 
 ::-moz-selection { /* Code for Firefox */
@@ -40,7 +40,7 @@ body.light-theme p a:hover, body.light-theme div#content li a:hover, body.light-
 }
 
 body.light-theme p, body.light-theme p a, body.light-theme li, body.light-theme p strong, body.light-theme p span, body.light-theme li strong, body.light-theme div#content li a, body.light-theme blockquote {
-  color: #00000088;
+  color: #000000a8;
 }
 
 body.light-theme hr {

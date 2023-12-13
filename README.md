@@ -23,7 +23,7 @@ I'm a designer, not an engineer, so it's not the most elegant solution in terms 
 
 All non-authored content within this document is presented solely for educational purposes and does not intent any infringement of intellectual property.
 
-All authored content within this document is distributed for free by [Boris Hrncic](https://boris.hr) & [The Poly Group](https://thepolygroup.co) under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+All authored content within this document is distributed for free by [Boris Hrncic](https://boris.hr) & [The Polyfen Group](https://thepolygroup.co) under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 
 ## Support our cause!
@@ -36,4 +36,4 @@ Help us keep polyatlas.wiki running and growing by donating any amount you'd lik
 ## Authors
 
 - [Boris Hrncic](https://boris.hr)
-- [The Poly Group](https://thepolygroup.co)
+- [The Polyfen Group](https://thepolygroup.co)

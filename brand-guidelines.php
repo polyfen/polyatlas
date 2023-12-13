@@ -25,7 +25,7 @@
       <?php include 'sections/about-banner.php';?>
       <?php include 'sections/poly-forum-banner.php';?>
       <?php include 'sections/donations.php';?>
-    <!-- INCLUDE HEADER.PHP end -->
+    <!-- INCLUDE HEADER.PHP end --->
 
     <div class="container-fluid">
       <div class="row">

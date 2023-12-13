@@ -45,7 +45,7 @@
 
         <h2 id="market-research">1. Market Research</h2>
         <p>Exhaustive research is the cornerstone of a strong Brand; It bridges the gap between Business Goals and Brand Identity. Furthermore, the Market Research is not only useful for the Identity Design, but it's also useful for all marketing activities of the business.</p>
-        <small>The Poly Group</small>
+        <small>The Polyfen Group</small>
         <img loading="lazy" src="imgs/market-research.webp">
         <p>You can browse the <strong>Market Research</strong> we did for our business at <a href="http://thepolygroup.co/market-research" target="_blank">thepolygroup.co/market-research</a></p>
         <hr class="third-separator">
@@ -74,8 +74,8 @@
             <li>What problem do the customers have that the business can solve?</li>
         </ol>
         </div>
-        <small>The Poly Group</small>
-        <blockquote><strong>The Poly Group</strong> incorporates multiple sub-brands segmenting different services, organisations, and products all related to the creative industry; especially to the Branding process.
+        <small>The Polyfen Group</small>
+        <blockquote><strong>The Polyfen Group</strong> incorporates multiple sub-brands segmenting different services, organisations, and products all related to the creative industry; especially to the Branding process.
         <br/>
         <br/>
         <strong>Polyfen</strong>, a creative agency offering Brand Identity Design services for new and emerging businesses. <a href="http://polyfen.com" target="_blank">polyfen.com</a>
@@ -87,7 +87,7 @@
         <strong>Poly Forum</strong>, an international community of creatives dedicated to discussing Branding. <a href="http://polyforum.org" target="_blank">polyforum.org</a>
         <br/>
         <br/>
-        The goal of The Poly Group is to serve integral Branding solutions for every step of the process while segmenting our subsidiary Brands each one tailored for a different target group.
+        The goal of The Polyfen Group is to serve integral Branding solutions for every step of the process while segmenting our subsidiary Brands each one tailored for a different target group.
         <br/>
         <br/>
         Further information can be found on our <strong>Business Plan</strong> available at › <a href="http://thepolygroup.co/business-plan" target="_blank">thepolygroup.co/business-plan</a></blockquote>
@@ -123,7 +123,7 @@
         </ol>
         </div>
         <p>This is a good time for your business to follow your Persona's interests in social media as a reference for the content they are consuming.</p>
-        <small>The Poly Group</small>
+        <small>The Polyfen Group</small>
         <p>Here is an example of a User Persona.</p>
         <table>
         <tbody>
@@ -193,7 +193,7 @@
         <p>For more technical, complex industries, you may browse research publications on <a href="https://www.researchgate.net" target="_blank">ResearchGate</a> or <a href="https://www.academia.edu" target="_blank">Academia.edu</a>.</p>
         <p>Make a list of both the industry leaders and direct competitors considering (1) which traits are common in the industry's brands, (2) which traits can be used to differentiate the business' Brand over its competitors, and (3) which brand is closer to the business' aspirations.</p>
         <p>While you survey the industry it would be useful to additionally list Keywords that you might find relatable to the industry.</p>
-        <small>The Poly Group</small>
+        <small>The Polyfen Group</small>
         <p>Here's a sample of the top ten industry leaders we've found for Polyfen's Industry Analysis.</p>
         <table>
         <tbody>
@@ -257,13 +257,13 @@
         <p>0.5&thinsp;&ndash;&thinsp;1.5 hours</p>
         <small>Description</small>
         <p>After considering all the surveyed information summarise your key insights regarding the business and which direction would be most effective for the Brand Strategy.</p>
-        <small>The Poly Group</small>
+        <small>The Polyfen Group</small>
         <blockquote>Our business model is a compelling take against our competition and has the potential to become a leader of the creative industry through attracting, engaging, and delighting our target public.</blockquote>
 
         <hr class="second-separator">
 
         <h2 id="business-plan">2. Business Plan</h2>
-        <small>The Poly Group</small>
+        <small>The Polyfen Group</small>
         <img loading="lazy" src="imgs/business-plan.webp">
         <p>You can browse the Business Plan we did for our business at <a href="http://thepolygroup.co/business-plan" target="_blank">thepolygroup.co/business-plan</a></p>
 
@@ -271,7 +271,7 @@
 
         <h2 id="products-and-services">3. Products &amp; Services</h2>
         <p>Define what would be the best quality Product or Service that your business can offer to its customers; Then reverse engineer what would be the process for developing those Products or Services; Lastly, write down the workflow guidelines for your team-members to follow.</p>
-        <p>For us at The Poly Group for instance, this very platform, Poly Atlas, serves as an internal wiki referring to the workflow of the services we provide.</p>
+        <p>For us at The Polyfen Group for instance, this very platform, Poly Atlas, serves as an internal wiki referring to the workflow of the services we provide.</p>
 
         
 
