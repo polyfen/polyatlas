@@ -100,7 +100,53 @@ div#poly-atlas-heading {
 
 
 /*---------- GENERAL end ------------*/
+/* new mobile nav behavior */
 
+@media (max-width: 1200px) {
+/*   div#sidebar-wrapper {
+  display: block !important;} */
+  a#open-sidebar-button  {
+    display: flex !important;
+    position: fixed !important;
+    left: unset !important;
+    right: 25px !important;
+    border-radius: 6px;
+    opacity: 0.7;
+    position: inherit;
+    top: 25px;
+    height: 40px;
+    width: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border: 1px solid #0001;
+  }
+  div#sidebar-wrapper {
+    left: unset !important;
+    right: 0px !important;
+    
+  }
+  #patch-2 {
+    left: unset !important;
+    right: 25px !important;
+  }
+  div#sidebar-title a {
+    margin-left: -28px !important;
+  }
+
+  div.cerrado, a#toc-default-title {
+    display: none;
+  }
+  a.d-none.patch-1 {
+    display: flex !important;
+    color: #02BCAA !important;
+}
+a.d-none.patch-1 i.fas.fa-bars {
+  color: #02BCAA !important;
+  font-size: 20px;
+}
+}
 
 /*---------- [MEDIA QUERIES] start ------------*/
 

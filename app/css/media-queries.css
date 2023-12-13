@@ -2,9 +2,9 @@ div#resolution-disclaimer {
   display: none;
 }
 
-div#sidebar-wrapper, a#toc-default-title {
+/* div#sidebar-wrapper, a#toc-default-title { // para que ande el new mobile nav
   display: none;
-}
+} */
 
 header a {
   display: none !important;
@@ -55,6 +55,7 @@ p strong, li strong {
 div#content {
   margin: 40px auto 0px;
 }
+
 
 /* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
