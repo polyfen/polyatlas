@@ -34,9 +34,9 @@
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
   <link rel="manifest" href="/site.webmanifest">
-  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#02bcaa">
-  <meta name="msapplication-TileColor" content="#02bcaa">
-  <meta name="theme-color" content="#02bcaa">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#01C9B5">
+  <meta name="msapplication-TileColor" content="#01C9B5">
+  <meta name="theme-color" content="#01C9B5">
 
 
   <!-- BOOTSTRAP -->

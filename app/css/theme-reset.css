@@ -1,21 +1,21 @@
 h1, h2, h3, h4, h5, h6 {
-  color: #02BCAA;
+  color: #01C9B5;
 }
 
 ::selection {
-  background: #02BCAA; /* Cherry */
+  background: #01C9B5; /* Cherry */
 }
 
 ::-moz-selection { /* Code for Firefox */
-    background: #02BCAA; /* Cherry */
+    background: #01C9B5; /* Cherry */
 }
 
 a.fullscreen-button i, a.toc-button i, a.community-button i, a.github-button i, a.change-theme-button i {
-  color: #02BCAA;
+  color: #01C9B5;
 }
 
 div#sidebar li a:hover {
-  border-bottom: #02BCAA 1px solid !important;
+  border-bottom: #01C9B5 1px solid !important;
 }
 
 div#sidebar-title {
@@ -30,26 +30,26 @@ div#sidebar-title a {
 }
 
 small {
-  color: #02BCAA;
-  border-bottom-color: #02BCAA66;
+  color: #01C9B5;
+  border-bottom-color: #01C9B566;
 }
 
 div#content ul li:before {
-  color: #02BCAA;
+  color: #01C9B5;
 }
 
 a.fullscreen-button, a.toc-button, a.about-button i, a.version-button, a.community-button, a.change-theme-button {
-    color: #02BCAA !important;
+    color: #01C9B5 !important;
 }
 
 a.fullscreen-button:hover, a.toc-button:hover, a.version-button:hover, a.about-button:hover,  a.community-button:hover, a.change-theme-button:hover {
-  background: #02BCAA !important;
+  background: #01C9B5 !important;
 }
 
 p a, div#content li a, td a, th a, blockquote a {
-  border-bottom-color: #02BCAA99;
+  border-bottom-color: #01C9B599;
 }
 
 p a:hover, div#content li a:hover, td a:hover, th a:hover, blockquote a:hover {
-  border-bottom: 2px solid #02BCAA;
+  border-bottom: 2px solid #01C9B5;
 }

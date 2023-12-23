@@ -18,7 +18,7 @@ html, body {
 html {
   position: relative;
   min-height: 100%;
-  border-top: 12px solid #00bcaa;
+  border-top: 12px solid #01C9B5;
 }
 
 body {
@@ -140,10 +140,10 @@ div#poly-atlas-heading {
   }
   a.d-none.patch-1 {
     display: flex !important;
-    color: #02BCAA !important;
+    color: #01C9B5 !important;
 }
 a.d-none.patch-1 i.fas.fa-bars {
-  color: #02BCAA !important;
+  color: #01C9B5 !important;
   font-size: 20px;
 }
 }

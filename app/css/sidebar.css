@@ -13,7 +13,7 @@ a#toc-default-title {
   position: absolute;
   top: 22px;
   left: 60px;
-  color: #00bcaa;
+  color: #01C9B5;
   text-transform: uppercase;
   letter-spacing: 1px;
   opacity: 0.7;
@@ -122,7 +122,7 @@ nav#table-of-contents {
 }
 
 body#getting-started-container.light-theme div#sidebar li a#toc-getting-started, body#intro-to-branding-container.light-theme div#sidebar li a#toc-intro-to-branding, body#business-development-container.light-theme div#sidebar li a#toc-business-development, body#brand-identity-design-container.light-theme div#sidebar li a#toc-brand-identity-design, body#brand-strategy-container.light-theme div#sidebar li a#toc-brand-strategy, body#visual-identity-container.light-theme div#sidebar li a#toc-visual-identity, body#brand-guidelines-container.light-theme div#sidebar li a#toc-brand-guidelines, body#basic-touchpoints-container.light-theme div#sidebar li a#toc-basic-touchpoints, body#digital-product-development-container.light-theme div#sidebar li a#toc-digital-product-development, body#bibliography-container.light-theme div#sidebar li a#toc-bibliography, body#colophon-container.light-theme div#sidebar li a#toc-colophon {
-  color: #21a59a !important;
+  color: #02BCAA !important;
   font-family: 'BiotifBold', sans-serif;
 }
 

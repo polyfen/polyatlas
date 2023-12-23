@@ -13,8 +13,8 @@ div#version-banner {
 }
 
 div#version-banner a.button {
-  color: #02BCAA;
-  border: 1px solid #02BCAA;
+  color: #01C9B5;
+  border: 1px solid #01C9B5;
   margin: -2px 0 0 -2px;;
   display: block;
   width: 60%;
@@ -23,9 +23,9 @@ div#version-banner a.button {
 }
 
 div#version-banner a.button:hover {
-  background: #02BCAA;
+  background: #01C9B5;
   color: white;
-  box-shadow: #02BCAA 0 0 10px;
+  box-shadow: #01C9B5 0 0 10px;
 }
 
 a#close-banner {
